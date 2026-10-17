@@ -1,28 +1,28 @@
-name: Fetch Scrobbles
 
+name: Fetch Scrobbles
+ 
 on:
   schedule:
-    - cron: '*/10 * * * *'
-  workflow_dispatch:
-  push:
-    branches: [main]
-
+    - cron: '*/2 * * * *'   # every 2 minutes
+  workflow_dispatch:          # manual trigger
+ 
 jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
+ 
       - name: Fetch Last.fm data
         env:
           LFM_USER:    ${{ secrets.LFM_USER }}
           LFM_API_KEY: ${{ secrets.LFM_API_KEY }}
         run: node fetch-scrobbles.js
-
+ 
       - name: Commit data files
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/
           git diff --cached --quiet || git commit -m "chore: update scrobble data"
+          git pull --rebase
           git push
