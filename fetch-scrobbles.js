@@ -56,7 +56,7 @@ function fromTs(view) {
 async function main() {
   // ── Recent tracks (page 1, includes now-playing) ──────────────────────────
   console.log('Fetching recent tracks...');
-  const recent = await lfm({ method: 'user.getrecenttracks', limit: 50, page: 1 });
+  const recent = await lfm({ method: 'user.getrecenttracks', limit: 100, page: 1 });
   write('recenttracks.json', recent);
 
   // ── Stats per view ────────────────────────────────────────────────────────
