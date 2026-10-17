@@ -60,7 +60,7 @@ async function main() {
   write('recenttracks.json', recent);
 
   // ── Stats per view ────────────────────────────────────────────────────────
-  const STATS_TTL = { '7day': 86400, 'month': 604800, 'year': 2592000, 'all': 3600 }; // seconds
+  const STATS_TTL = { '7day': 3600, 'month': 604800, 'year': 2592000, 'all': 3600 }; // seconds
 
   for (const view of ['7day', 'month', 'year', 'all']) {
     // Skip if existing file is still within TTL
