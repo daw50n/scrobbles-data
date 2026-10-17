@@ -107,40 +107,58 @@ async function main() {
     const plays = parseInt(rt?.recenttracks?.['@attr']?.total || 0, 10);
 
     let top_artist = null;
+    let top_track = null;
     let artists = 0;
 
     if (view === '7day') {
-      const [ta, wc] = await Promise.all([
+      const [ta, tt, wc] = await Promise.all([
         lfm({ method: 'user.gettopartists', limit: 1, period: '7day' }),
+        lfm({ method: 'user.gettoptracks',  limit: 1, period: '7day' }),
         lfm({ method: 'user.getweeklyartistchart' }),
       ]);
       let taList = ta?.topartists?.artist || [];
       if (!Array.isArray(taList)) taList = [taList];
       top_artist = taList[0]?.name || null;
+      let ttList = tt?.toptracks?.track || [];
+      if (!Array.isArray(ttList)) ttList = [ttList];
+      top_track = ttList[0] ? `${ttList[0].name} – ${ttList[0].artist?.name}` : null;
       const wcList = wc?.weeklyartistchart?.artist || [];
       artists = Array.isArray(wcList) ? wcList.length : 0;
 
     } else if (view === 'all') {
-      const ta = await lfm({ method: 'user.gettopartists', limit: 1, period: 'overall' });
+      const [ta, tt] = await Promise.all([
+        lfm({ method: 'user.gettopartists', limit: 1, period: 'overall' }),
+        lfm({ method: 'user.gettoptracks',  limit: 1, period: 'overall' }),
+      ]);
       let taList = ta?.topartists?.artist || [];
       if (!Array.isArray(taList)) taList = [taList];
       top_artist = taList[0]?.name || null;
       artists = parseInt(ta?.topartists?.['@attr']?.total || 0, 10);
+      let ttList = tt?.toptracks?.track || [];
+      if (!Array.isArray(ttList)) ttList = [ttList];
+      top_track = ttList[0] ? `${ttList[0].name} – ${ttList[0].artist?.name}` : null;
 
     } else {
       // month / year: use period param (rolling, fast)
       const period = view === 'year' ? '12month' : '1month';
-      const ta = await lfm({ method: 'user.gettopartists', limit: 1, period });
+      const [ta, tt] = await Promise.all([
+        lfm({ method: 'user.gettopartists', limit: 1, period }),
+        lfm({ method: 'user.gettoptracks',  limit: 1, period }),
+      ]);
       let taList = ta?.topartists?.artist || [];
       if (!Array.isArray(taList)) taList = [taList];
       top_artist = taList[0]?.name || null;
       artists = parseInt(ta?.topartists?.['@attr']?.total || 0, 10);
+      let ttList = tt?.toptracks?.track || [];
+      if (!Array.isArray(ttList)) ttList = [ttList];
+      top_track = ttList[0] ? `${ttList[0].name} – ${ttList[0].artist?.name}` : null;
     }
 
     write(`stats-${view}.json`, {
       plays,
       artists,
       top_artist,
+      top_track,
       generated: new Date().toISOString(),
     });
     } catch (err) {
