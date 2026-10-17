@@ -2,8 +2,10 @@ name: Fetch Scrobbles
 
 on:
   schedule:
-    - cron: '*/10 * * * *'   # every 10 minutes
-  workflow_dispatch:          # manual trigger
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
 
 jobs:
   fetch:
