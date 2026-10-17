@@ -60,7 +60,24 @@ async function main() {
   write('recenttracks.json', recent);
 
   // ── Stats per view ────────────────────────────────────────────────────────
+  const STATS_TTL = { '7day': 86400, 'month': 604800, 'year': 2592000, 'all': 3600 }; // seconds
+
   for (const view of ['7day', 'month', 'year', 'all']) {
+    // Skip if existing file is still within TTL
+    const statsFile = path.join(OUT_DIR, `stats-${view}.json`);
+    if (fs.existsSync(statsFile)) {
+      try {
+        const existing = JSON.parse(fs.readFileSync(statsFile, 'utf8'));
+        const ageSeconds = (Date.now() - new Date(existing.generated).getTime()) / 1000;
+        if (ageSeconds < STATS_TTL[view]) {
+          const ageH = Math.round(ageSeconds / 360) / 10;
+          const ttlH = STATS_TTL[view] / 3600;
+          console.log(`Skipping stats-${view}.json (${ageH}h old, TTL ${ttlH}h)`);
+          continue;
+        }
+      } catch (_) { /* corrupt or missing generated field — refetch */ }
+    }
+
     console.log(`Fetching stats: ${view}...`);
     try {
     const fts = fromTs(view);
