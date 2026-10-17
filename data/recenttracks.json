@@ -3,41 +3,6 @@
     "track": [
       {
         "artist": {
-          "mbid": "57843aed-c1c1-4f45-9859-478dd999bc18",
-          "#text": "School of Seven Bells"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/76e4ca95e42f2095ac9c7b01b7e12d49.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/76e4ca95e42f2095ac9c7b01b7e12d49.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/76e4ca95e42f2095ac9c7b01b7e12d49.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/76e4ca95e42f2095ac9c7b01b7e12d49.jpg"
-          }
-        ],
-        "mbid": "0b394211-2926-48be-8867-b9fd7cb916ba",
-        "album": {
-          "mbid": "0cf9b58c-9c6a-41d1-beb9-08b1c09f6566",
-          "#text": "SVIIB"
-        },
-        "name": "Open Your Eyes",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/School+of+Seven+Bells/_/Open+Your+Eyes"
-      },
-      {
-        "artist": {
           "mbid": "a2a3f910-b188-43e7-81d0-f1ac2a2f3e12",
           "#text": "Noah Kahan"
         },
@@ -3804,7 +3769,7 @@
             "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c5d7e5f2e3e94ca61f887ec471e98c54.png"
           }
         ],
-        "mbid": "cf3d559b-2f9d-4823-96d2-ccd08e8a71aa",
+        "mbid": "",
         "album": {
           "mbid": "f7b6fb61-ddd5-48a5-a9dc-5687948709c6",
           "#text": "Day and Night"
@@ -5568,7 +5533,7 @@
             "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c5d7e5f2e3e94ca61f887ec471e98c54.png"
           }
         ],
-        "mbid": "cf3d559b-2f9d-4823-96d2-ccd08e8a71aa",
+        "mbid": "",
         "album": {
           "mbid": "f7b6fb61-ddd5-48a5-a9dc-5687948709c6",
           "#text": "Day and Night"
