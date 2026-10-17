@@ -1,4 +1,4 @@
-ame: Fetch Scrobbles
+name: Fetch Scrobbles
 
 on:
   schedule:
