@@ -62,6 +62,7 @@ async function main() {
   // ── Stats per view ────────────────────────────────────────────────────────
   for (const view of ['7day', 'month', 'year', 'all']) {
     console.log(`Fetching stats: ${view}...`);
+    try {
     const fts = fromTs(view);
 
     // Play count (calendar-accurate via from=)
@@ -107,6 +108,9 @@ async function main() {
       top_artist,
       generated: new Date().toISOString(),
     });
+    } catch (err) {
+      console.warn(`Warning: skipping stats-${view}.json — ${err.message}`);
+    }
   }
 
   console.log('Done.');
