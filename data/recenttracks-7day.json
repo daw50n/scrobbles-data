@@ -434,7 +434,7 @@
     },
     {
       "artist": {
-        "mbid": "",
+        "mbid": "5b9dc76b-8574-4cb5-9496-ab1bc0d35c29",
         "#text": "Brandon Flowers"
       },
       "streamable": "0",
@@ -3781,5 +3781,5 @@
       }
     }
   ],
-  "generated": "2026-10-18T15:46:30.958Z"
+  "generated": "2026-10-18T18:29:54.849Z"
 }
