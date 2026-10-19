@@ -1364,7 +1364,371 @@
         "uts": "1792326854",
         "#text": "Sun, 18 Oct 2026 12:34:14 GMT"
       }
+    },
+    {
+      "name": "Rein Me In (with Olivia Dean)",
+      "artist": {
+        "#text": "Sam Fender"
+      },
+      "album": {
+        "#text": "People Watching (Deluxe Edition)"
+      },
+      "date": {
+        "uts": "1792429555",
+        "#text": "Mon, 19 Oct 2026 17:05:55 GMT"
+      }
+    },
+    {
+      "name": "COME GET YOUR GIRL",
+      "artist": {
+        "#text": "Lights"
+      },
+      "album": {
+        "#text": "A6EXTENDED"
+      },
+      "date": {
+        "uts": "1792429839",
+        "#text": "Mon, 19 Oct 2026 17:10:39 GMT"
+      }
+    },
+    {
+      "name": "Before You Know It",
+      "artist": {
+        "#text": "Kygo"
+      },
+      "album": {
+        "#text": "Before You Know It"
+      },
+      "date": {
+        "uts": "1792430045",
+        "#text": "Mon, 19 Oct 2026 17:14:05 GMT"
+      }
+    },
+    {
+      "name": "Tremolo",
+      "artist": {
+        "#text": "Metric"
+      },
+      "album": {
+        "#text": "Romanticize the Dive"
+      },
+      "date": {
+        "uts": "1792430208",
+        "#text": "Mon, 19 Oct 2026 17:16:48 GMT"
+      }
+    },
+    {
+      "name": "Dance The Pain Away",
+      "artist": {
+        "#text": "Haute & Freddy"
+      },
+      "album": {
+        "#text": "Big Disgrace"
+      },
+      "date": {
+        "uts": "1792430394",
+        "#text": "Mon, 19 Oct 2026 17:19:54 GMT"
+      }
+    },
+    {
+      "name": "Fun",
+      "artist": {
+        "#text": "Sasha Alex Sloan"
+      },
+      "album": {
+        "#text": "Fun"
+      },
+      "date": {
+        "uts": "1792430623",
+        "#text": "Mon, 19 Oct 2026 17:23:43 GMT"
+      }
+    },
+    {
+      "name": "Edge of the Earth",
+      "artist": {
+        "#text": "The Beaches"
+      },
+      "album": {
+        "#text": "Blame My Ex"
+      },
+      "date": {
+        "uts": "1792430805",
+        "#text": "Mon, 19 Oct 2026 17:26:45 GMT"
+      }
+    },
+    {
+      "name": "Too Cute to Be Lonely",
+      "artist": {
+        "#text": "Holly Humberstone"
+      },
+      "album": {
+        "#text": "Too Cute To Be Lonely"
+      },
+      "date": {
+        "uts": "1792430958",
+        "#text": "Mon, 19 Oct 2026 17:29:18 GMT"
+      }
+    },
+    {
+      "name": "Push My Luck",
+      "artist": {
+        "#text": "The Chainsmokers"
+      },
+      "album": {
+        "#text": "World War Joy"
+      },
+      "date": {
+        "uts": "1792431142",
+        "#text": "Mon, 19 Oct 2026 17:32:22 GMT"
+      }
+    },
+    {
+      "name": "Underline the Black",
+      "artist": {
+        "#text": "Metric"
+      },
+      "album": {
+        "#text": "Art of Doubt"
+      },
+      "date": {
+        "uts": "1792431318",
+        "#text": "Mon, 19 Oct 2026 17:35:18 GMT"
+      }
+    },
+    {
+      "name": "My Own Soul’s Warning",
+      "artist": {
+        "#text": "The Killers"
+      },
+      "album": {
+        "#text": "Imploding the Mirage"
+      },
+      "date": {
+        "uts": "1792431599",
+        "#text": "Mon, 19 Oct 2026 17:39:59 GMT"
+      }
+    },
+    {
+      "name": "Dancing on My Own",
+      "artist": {
+        "#text": "Robyn"
+      },
+      "album": {
+        "#text": "Body Talk"
+      },
+      "date": {
+        "uts": "1792431860",
+        "#text": "Mon, 19 Oct 2026 17:44:20 GMT"
+      }
+    },
+    {
+      "name": "Shapeshifter",
+      "artist": {
+        "#text": "Lorde"
+      },
+      "album": {
+        "#text": "Virgin"
+      },
+      "date": {
+        "uts": "1792432114",
+        "#text": "Mon, 19 Oct 2026 17:48:34 GMT"
+      }
+    },
+    {
+      "name": "Leave a Trace",
+      "artist": {
+        "#text": "CHVRCHES"
+      },
+      "album": {
+        "#text": "Every Open Eye"
+      },
+      "date": {
+        "uts": "1792432361",
+        "#text": "Mon, 19 Oct 2026 17:52:41 GMT"
+      }
+    },
+    {
+      "name": "Risk",
+      "artist": {
+        "#text": "Gracie Abrams"
+      },
+      "album": {
+        "#text": "The Secret of Us"
+      },
+      "date": {
+        "uts": "1792432571",
+        "#text": "Mon, 19 Oct 2026 17:56:11 GMT"
+      }
+    },
+    {
+      "name": "I Want To Know What Love Is",
+      "artist": {
+        "#text": "Amason"
+      },
+      "album": {
+        "#text": "California Airport Love"
+      },
+      "date": {
+        "uts": "1792432772",
+        "#text": "Mon, 19 Oct 2026 17:59:32 GMT"
+      }
+    },
+    {
+      "name": "Take Me Back - Robin Schulz Remix",
+      "artist": {
+        "#text": "Kygo"
+      },
+      "album": {
+        "#text": "Take Me Back (Robin Schulz Remix)"
+      },
+      "date": {
+        "uts": "1792432971",
+        "#text": "Mon, 19 Oct 2026 18:02:51 GMT"
+      }
+    },
+    {
+      "name": "Linger - SiriusXM Session",
+      "artist": {
+        "#text": "Royel Otis"
+      },
+      "album": {
+        "#text": "Linger / Heading For The Door (Sirius XM Session)"
+      },
+      "date": {
+        "uts": "1792433126",
+        "#text": "Mon, 19 Oct 2026 18:05:26 GMT"
+      }
+    },
+    {
+      "name": "My Whole World",
+      "artist": {
+        "#text": "Kings of Leon"
+      },
+      "album": {
+        "#text": "My Whole World"
+      },
+      "date": {
+        "uts": "1792433299",
+        "#text": "Mon, 19 Oct 2026 18:08:19 GMT"
+      }
+    },
+    {
+      "name": "The Great Divide",
+      "artist": {
+        "#text": "Noah Kahan"
+      },
+      "album": {
+        "#text": "The Great Divide"
+      },
+      "date": {
+        "uts": "1792433539",
+        "#text": "Mon, 19 Oct 2026 18:12:19 GMT"
+      }
+    },
+    {
+      "name": "Good Reason",
+      "artist": {
+        "#text": "Gracie Abrams"
+      },
+      "album": {
+        "#text": "Daughter from Hell"
+      },
+      "date": {
+        "uts": "1792433868",
+        "#text": "Mon, 19 Oct 2026 18:17:48 GMT"
+      }
+    },
+    {
+      "name": "4 Seasons",
+      "artist": {
+        "#text": "Ellie Goulding"
+      },
+      "album": {
+        "#text": "I Know Too Much"
+      },
+      "date": {
+        "uts": "1792434100",
+        "#text": "Mon, 19 Oct 2026 18:21:40 GMT"
+      }
+    },
+    {
+      "name": "And It Breaks My Heart",
+      "artist": {
+        "#text": "LÉON"
+      },
+      "album": {
+        "#text": "Apart"
+      },
+      "date": {
+        "uts": "1792434285",
+        "#text": "Mon, 19 Oct 2026 18:24:45 GMT"
+      }
+    },
+    {
+      "name": "Light On",
+      "artist": {
+        "#text": "Maggie Rogers"
+      },
+      "album": {
+        "#text": "Heard It in a Past Life"
+      },
+      "date": {
+        "uts": "1792434489",
+        "#text": "Mon, 19 Oct 2026 18:28:09 GMT"
+      }
+    },
+    {
+      "name": "Run",
+      "artist": {
+        "#text": "Snow Patrol"
+      },
+      "album": {
+        "#text": "Final Straw"
+      },
+      "date": {
+        "uts": "1792434700",
+        "#text": "Mon, 19 Oct 2026 18:31:40 GMT"
+      }
+    },
+    {
+      "name": "The Shade",
+      "artist": {
+        "#text": "Metric"
+      },
+      "album": {
+        "#text": "Pagans in Vegas"
+      },
+      "date": {
+        "uts": "1792435047",
+        "#text": "Mon, 19 Oct 2026 18:37:27 GMT"
+      }
+    },
+    {
+      "name": "Dreams",
+      "artist": {
+        "#text": "The Cranberries"
+      },
+      "album": {
+        "#text": "Everybody Else Is Doing It, So Why Can't We?"
+      },
+      "date": {
+        "uts": "1792435250",
+        "#text": "Mon, 19 Oct 2026 18:40:50 GMT"
+      }
+    },
+    {
+      "name": "Over",
+      "artist": {
+        "#text": "CHVRCHES"
+      },
+      "album": {
+        "#text": "Over"
+      },
+      "date": {
+        "uts": "1792435491",
+        "#text": "Mon, 19 Oct 2026 18:44:51 GMT"
+      }
     }
   ],
-  "generated": "2026-10-19T14:26:22.936Z"
+  "generated": "2026-10-19T20:25:58.626Z"
 }
