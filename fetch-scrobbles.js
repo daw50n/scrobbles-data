@@ -40,130 +40,159 @@ function write(filename, data) {
   console.log('Wrote', filename);
 }
 
-function fromTs(view) {
+// ── Scrobble history helpers ─────────────────────────────────────────────────
+
+function loadHistory() {
+  const file = path.join(OUT_DIR, 'scrobbles.json');
+  if (!fs.existsSync(file)) return [];
+  try {
+    return JSON.parse(fs.readFileSync(file, 'utf8'));
+  } catch (_) {
+    return [];
+  }
+}
+
+function saveHistory(scrobbles) {
+  write('scrobbles.json', scrobbles);
+}
+
+// Fetch all pages from Last.fm starting at `fromTs` (unix seconds, optional)
+async function fetchScrobblesSince(fromTs) {
+  const all = [];
+  let page = 1;
+  while (true) {
+    const params = { method: 'user.getrecenttracks', limit: 200, page };
+    if (fromTs) params.from = fromTs;
+    const res = await lfm(params);
+    const tracks = res?.recenttracks?.track ?? [];
+    const trackArr = Array.isArray(tracks) ? tracks : [tracks];
+    const filtered = trackArr
+      .filter(t => !t['@attr']?.nowplaying && t.date?.uts)
+      .map(t => ({
+        ts:     parseInt(t.date.uts, 10),
+        track:  t.name,
+        artist: t.artist?.['#text'] || t.artist?.name || '',
+        album:  t.album?.['#text'] || '',
+      }));
+    all.push(...filtered);
+    const totalPages = parseInt(res?.recenttracks?.['@attr']?.totalPages ?? 1, 10);
+    console.log(`  page ${page}/${totalPages} (${filtered.length} tracks)`);
+    if (page >= totalPages) break;
+    page++;
+  }
+  return all;
+}
+
+// ── Stats computed from local scrobble history ───────────────────────────────
+
+function tsFrom(view) {
   const now = Math.floor(Date.now() / 1000);
   if (view === '7day')  return now - 7 * 86400;
   if (view === 'month') {
-    const d = new Date(); d.setDate(1); d.setHours(0,0,0,0);
+    const d = new Date(); d.setDate(1); d.setHours(0, 0, 0, 0);
     return Math.floor(d.getTime() / 1000);
   }
   if (view === 'year') {
     return Math.floor(new Date(new Date().getFullYear(), 0, 1).getTime() / 1000);
   }
-  return null;
+  return null; // all time
 }
 
-async function main() {
-  // ── Recent tracks (page 1, 100 tracks for the feed) ─────────────────────
-  console.log('Fetching recent tracks...');
-  const recent = await lfm({ method: 'user.getrecenttracks', limit: 200, page: 1 });
-  write('recenttracks.json', recent);
+function computeStats(scrobbles, view) {
+  const from = tsFrom(view);
+  const subset = from ? scrobbles.filter(s => s.ts >= from) : scrobbles;
 
-  // ── All tracks from last 7 days (for Mastodon weekly wrap) ───────────────
-  console.log('Fetching full 7-day history...');
-  const sevenDaysAgo = Math.floor(Date.now() / 1000) - 7 * 86400;
-  let allTracks7day = [];
-  let page7 = 1;
-  while (true) {
-    const res = await lfm({ method: 'user.getrecenttracks', limit: 200, page: page7, from: sevenDaysAgo });
-    const tracks = res?.recenttracks?.track ?? [];
-    const trackArr = Array.isArray(tracks) ? tracks : [tracks];
-    const filtered = trackArr.filter(t => !t['@attr']?.nowplaying);
-    allTracks7day = allTracks7day.concat(filtered);
-    const totalPages = parseInt(res?.recenttracks?.['@attr']?.totalPages ?? 1, 10);
-    console.log(`  page ${page7}/${totalPages} (${filtered.length} tracks)`);
-    if (page7 >= totalPages) break;
-    page7++;
+  const plays = subset.length;
+
+  // Count by artist
+  const artistCounts = {};
+  for (const s of subset) {
+    artistCounts[s.artist] = (artistCounts[s.artist] || 0) + 1;
   }
-  write('recenttracks-7day.json', { tracks: allTracks7day, generated: new Date().toISOString() });
+  const artists = Object.keys(artistCounts).length;
+  const top_artist = artists > 0
+    ? Object.entries(artistCounts).sort((a, b) => b[1] - a[1])[0][0]
+    : null;
 
-  // ── Stats per view ────────────────────────────────────────────────────────
-  const STATS_TTL = { '7day': 3600, 'month': 3600, 'year': 3600, 'all': 3600 }; // seconds
+  // Count by track+artist
+  const trackCounts = {};
+  for (const s of subset) {
+    const key = `${s.track}|||${s.artist}`;
+    trackCounts[key] = (trackCounts[key] || 0) + 1;
+  }
+  const topTrackKey = Object.keys(trackCounts).length > 0
+    ? Object.entries(trackCounts).sort((a, b) => b[1] - a[1])[0][0]
+    : null;
+  const top_track = topTrackKey
+    ? topTrackKey.replace('|||', ' – ')
+    : null;
 
+  return { plays, artists, top_artist, top_track, generated: new Date().toISOString() };
+}
+
+// ── Main ─────────────────────────────────────────────────────────────────────
+
+async function main() {
+  // 1. Load existing history and work out what to fetch
+  const history = loadHistory();
+  const lastTs = history.length > 0 ? Math.max(...history.map(s => s.ts)) : null;
+
+  if (lastTs) {
+    console.log(`History has ${history.length} scrobbles. Fetching new ones since ${new Date(lastTs * 1000).toISOString()}...`);
+  } else {
+    console.log('No history found. Fetching full scrobble history...');
+  }
+
+  // Fetch from 1 second after the last known scrobble (or everything)
+  const newScrobbles = await fetchScrobblesSince(lastTs ? lastTs + 1 : null);
+  console.log(`Fetched ${newScrobbles.length} new scrobbles.`);
+
+  // Merge, deduplicate by ts, sort oldest-first
+  const merged = [...history, ...newScrobbles];
+  const seen = new Set();
+  const deduped = merged.filter(s => {
+    if (seen.has(s.ts)) return false;
+    seen.add(s.ts);
+    return true;
+  });
+  deduped.sort((a, b) => a.ts - b.ts);
+
+  saveHistory(deduped);
+  console.log(`Total scrobbles stored: ${deduped.length}`);
+
+  // 2. Recent tracks feed (latest 200 for the page)
+  console.log('Writing recenttracks.json from history...');
+  const recentFeed = deduped.slice(-200).reverse().map(s => ({
+    name: s.track,
+    artist: { '#text': s.artist },
+    album:  { '#text': s.album },
+    date:   { uts: String(s.ts), '#text': new Date(s.ts * 1000).toUTCString() },
+  }));
+  write('recenttracks.json', {
+    recenttracks: {
+      track: recentFeed,
+      '@attr': { total: String(deduped.length) },
+    }
+  });
+
+  // 3. 7-day history for Mastodon weekly wrap
+  console.log('Writing recenttracks-7day.json from history...');
+  const sevenDaysAgo = Math.floor(Date.now() / 1000) - 7 * 86400;
+  const week = deduped
+    .filter(s => s.ts >= sevenDaysAgo)
+    .map(s => ({
+      name: s.track,
+      artist: { '#text': s.artist },
+      album:  { '#text': s.album },
+      date:   { uts: String(s.ts), '#text': new Date(s.ts * 1000).toUTCString() },
+    }));
+  write('recenttracks-7day.json', { tracks: week, generated: new Date().toISOString() });
+
+  // 4. Stats for each view — computed locally, no API calls needed
   for (const view of ['7day', 'month', 'year', 'all']) {
-    // Skip if existing file is still within TTL
-    const statsFile = path.join(OUT_DIR, `stats-${view}.json`);
-    if (fs.existsSync(statsFile)) {
-      try {
-        const existing = JSON.parse(fs.readFileSync(statsFile, 'utf8'));
-        const ageSeconds = (Date.now() - new Date(existing.generated).getTime()) / 1000;
-        if (ageSeconds < STATS_TTL[view]) {
-          const ageH = Math.round(ageSeconds / 360) / 10;
-          const ttlH = STATS_TTL[view] / 3600;
-          console.log(`Skipping stats-${view}.json (${ageH}h old, TTL ${ttlH}h)`);
-          continue;
-        }
-      } catch (_) { /* corrupt or missing generated field — refetch */ }
-    }
-
-    console.log(`Fetching stats: ${view}...`);
-    try {
-    const fts = fromTs(view);
-
-    // Play count (calendar-accurate via from=)
-    const rtParams = { method: 'user.getrecenttracks', limit: 1 };
-    if (fts) rtParams.from = fts;
-    const rt = await lfm(rtParams);
-    const plays = parseInt(rt?.recenttracks?.['@attr']?.total || 0, 10);
-
-    let top_artist = null;
-    let top_track = null;
-    let artists = 0;
-
-    if (view === '7day') {
-      const [ta, tt, wc] = await Promise.all([
-        lfm({ method: 'user.gettopartists', limit: 1, period: '7day' }),
-        lfm({ method: 'user.gettoptracks',  limit: 1, period: '7day' }),
-        lfm({ method: 'user.getweeklyartistchart' }),
-      ]);
-      let taList = ta?.topartists?.artist || [];
-      if (!Array.isArray(taList)) taList = [taList];
-      top_artist = taList[0]?.name || null;
-      let ttList = tt?.toptracks?.track || [];
-      if (!Array.isArray(ttList)) ttList = [ttList];
-      top_track = ttList[0] ? `${ttList[0].name} – ${ttList[0].artist?.name}` : null;
-      const wcList = wc?.weeklyartistchart?.artist || [];
-      artists = Array.isArray(wcList) ? wcList.length : 0;
-
-    } else if (view === 'all') {
-      const [ta, tt] = await Promise.all([
-        lfm({ method: 'user.gettopartists', limit: 1, period: 'overall' }),
-        lfm({ method: 'user.gettoptracks',  limit: 1, period: 'overall' }),
-      ]);
-      let taList = ta?.topartists?.artist || [];
-      if (!Array.isArray(taList)) taList = [taList];
-      top_artist = taList[0]?.name || null;
-      artists = parseInt(ta?.topartists?.['@attr']?.total || 0, 10);
-      let ttList = tt?.toptracks?.track || [];
-      if (!Array.isArray(ttList)) ttList = [ttList];
-      top_track = ttList[0] ? `${ttList[0].name} – ${ttList[0].artist?.name}` : null;
-
-    } else {
-      // month / year: use period param (rolling, fast)
-      const period = view === 'year' ? '12month' : '1month';
-      const [ta, tt] = await Promise.all([
-        lfm({ method: 'user.gettopartists', limit: 1, period }),
-        lfm({ method: 'user.gettoptracks',  limit: 1, period }),
-      ]);
-      let taList = ta?.topartists?.artist || [];
-      if (!Array.isArray(taList)) taList = [taList];
-      top_artist = taList[0]?.name || null;
-      artists = parseInt(ta?.topartists?.['@attr']?.total || 0, 10);
-      let ttList = tt?.toptracks?.track || [];
-      if (!Array.isArray(ttList)) ttList = [ttList];
-      top_track = ttList[0] ? `${ttList[0].name} – ${ttList[0].artist?.name}` : null;
-    }
-
-    write(`stats-${view}.json`, {
-      plays,
-      artists,
-      top_artist,
-      top_track,
-      generated: new Date().toISOString(),
-    });
-    } catch (err) {
-      console.warn(`Warning: skipping stats-${view}.json — ${err.message}`);
-    }
+    const stats = computeStats(deduped, view);
+    write(`stats-${view}.json`, stats);
+    console.log(`  ${view}: ${stats.plays} plays, top artist: ${stats.top_artist}, top track: ${stats.top_track}`);
   }
 
   console.log('Done.');
