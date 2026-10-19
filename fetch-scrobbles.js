@@ -160,14 +160,24 @@ async function main() {
   saveHistory(deduped);
   console.log(`Total scrobbles stored: ${deduped.length}`);
 
-  // 2. Recent tracks feed (latest 200 for the page)
-  console.log('Writing recenttracks.json from history...');
-  const recentFeed = deduped.slice(-200).reverse().map(s => ({
-    name: s.track,
-    artist: { '#text': s.artist },
-    album:  { '#text': s.album },
-    date:   { uts: String(s.ts), '#text': new Date(s.ts * 1000).toUTCString() },
-  }));
+  // 2. Recent tracks feed (latest 200 for the page) — fetch from API to get image URLs
+  console.log('Fetching recenttracks from API for album art...');
+  let recentFeed = [];
+  try {
+    const res = await lfm({ method: 'user.getrecenttracks', limit: 200, page: 1 });
+    const tracks = res?.recenttracks?.track ?? [];
+    recentFeed = (Array.isArray(tracks) ? tracks : [tracks])
+      .filter(t => !t['@attr']?.nowplaying);
+  } catch (e) {
+    console.warn('Could not fetch recenttracks from API, falling back to history:', e.message);
+    recentFeed = deduped.slice(-200).reverse().map(s => ({
+      name: s.track,
+      artist: { '#text': s.artist },
+      album:  { '#text': s.album },
+      date:   { uts: String(s.ts), '#text': new Date(s.ts * 1000).toUTCString() },
+      image:  [],
+    }));
+  }
   write('recenttracks.json', {
     recenttracks: {
       track: recentFeed,
