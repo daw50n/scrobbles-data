@@ -1,19 +1,6 @@
 {
   "tracks": [
     {
-      "name": "Cry Little Sister (Music from the Netflix Film \"Nightbooks\")",
-      "artist": {
-        "#text": "CHVRCHES"
-      },
-      "album": {
-        "#text": "Nightbooks (Music from the Netflix Film)"
-      },
-      "date": {
-        "uts": "1792172420",
-        "#text": "Fri, 16 Oct 2026 17:40:20 GMT"
-      }
-    },
-    {
       "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
       "artist": {
         "#text": "Noah Kahan"
@@ -1301,5 +1288,5 @@
       }
     }
   ],
-  "generated": "2026-10-23T12:28:33.517Z"
+  "generated": "2026-10-23T17:46:00.891Z"
 }
