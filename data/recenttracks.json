@@ -97,7 +97,7 @@
             "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/87138bbda83bd0ae8b4da2b6cab9b66a.jpg"
           }
         ],
-        "mbid": "71795dfd-3420-4fec-a684-ba6e8d32451c",
+        "mbid": "",
         "album": {
           "mbid": "000b188f-549f-4c11-a5fb-024fbfdb7a13",
           "#text": "Everybody Else Is Doing It, So Why Can't We?"
@@ -783,7 +783,7 @@
         ],
         "mbid": "2e150c9e-1fff-4889-83fb-838d9f40cbce",
         "album": {
-          "mbid": "2fe67287-00a1-4c9d-8f17-5afbe27c5cbb",
+          "mbid": "0039b287-ab03-46d4-a469-70d46084788b",
           "#text": "Too Cute To Be Lonely"
         },
         "name": "Too Cute to Be Lonely",
@@ -3519,7 +3519,7 @@
         ],
         "mbid": "",
         "album": {
-          "mbid": "0ad7d796-6090-42a8-ba24-3cf7ecd80435",
+          "mbid": "",
           "#text": "Draw You Out"
         },
         "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
@@ -3987,7 +3987,7 @@
         ],
         "mbid": "2e150c9e-1fff-4889-83fb-838d9f40cbce",
         "album": {
-          "mbid": "2fe67287-00a1-4c9d-8f17-5afbe27c5cbb",
+          "mbid": "0039b287-ab03-46d4-a469-70d46084788b",
           "#text": "Too Cute To Be Lonely"
         },
         "name": "Too Cute to Be Lonely",
@@ -4885,7 +4885,7 @@
             "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/0d6e35eaf31f4e1db42b2ea247d90bb7.png"
           }
         ],
-        "mbid": "d8940db7-0634-4d75-b59a-0d94c01b88a1",
+        "mbid": "",
         "album": {
           "mbid": "016cf05e-0233-4158-b8f8-3e6e290850bd",
           "#text": "Jagged Little Pill"
@@ -5065,7 +5065,7 @@
             "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dc099fe1515be40d82fcb759fe0bb0df.jpg"
           }
         ],
-        "mbid": "4b427383-e702-4ddd-b326-5a1cac62dcdd",
+        "mbid": "",
         "album": {
           "mbid": "",
           "#text": "The Collection (Standard Edition)"
