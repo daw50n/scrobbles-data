@@ -1,84 +1,6 @@
 {
   "tracks": [
     {
-      "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
-      "artist": {
-        "#text": "Noah Kahan"
-      },
-      "album": {
-        "#text": "Draw You Out"
-      },
-      "date": {
-        "uts": "1792175557",
-        "#text": "Fri, 16 Oct 2026 18:32:37 GMT"
-      }
-    },
-    {
-      "name": "Crossfire",
-      "artist": {
-        "#text": "Brandon Flowers"
-      },
-      "album": {
-        "#text": "Flamingo"
-      },
-      "date": {
-        "uts": "1792175817",
-        "#text": "Fri, 16 Oct 2026 18:36:57 GMT"
-      }
-    },
-    {
-      "name": "Such Great Heights - From \"Tell Me Lies (Season 3)\"",
-      "artist": {
-        "#text": "CHVRCHES"
-      },
-      "album": {
-        "#text": "Such Great Heights [From \"Tell Me Lies (Season 3)\"]"
-      },
-      "date": {
-        "uts": "1792176087",
-        "#text": "Fri, 16 Oct 2026 18:41:27 GMT"
-      }
-    },
-    {
-      "name": "Run Away with Me",
-      "artist": {
-        "#text": "Carly Rae Jepsen"
-      },
-      "album": {
-        "#text": "Emotion (Deluxe)"
-      },
-      "date": {
-        "uts": "1792176310",
-        "#text": "Fri, 16 Oct 2026 18:45:10 GMT"
-      }
-    },
-    {
-      "name": "For Your Entertainment",
-      "artist": {
-        "#text": "Ellie Goulding"
-      },
-      "album": {
-        "#text": "I Know Too Much"
-      },
-      "date": {
-        "uts": "1792176541",
-        "#text": "Fri, 16 Oct 2026 18:49:01 GMT"
-      }
-    },
-    {
-      "name": "Empty Nest",
-      "artist": {
-        "#text": "Silversun Pickups"
-      },
-      "album": {
-        "#text": "Physical Thrills"
-      },
-      "date": {
-        "uts": "1792176766",
-        "#text": "Fri, 16 Oct 2026 18:52:46 GMT"
-      }
-    },
-    {
       "name": "Be Right There",
       "artist": {
         "#text": "Diplo"
@@ -1286,7 +1208,33 @@
         "uts": "1792559627",
         "#text": "Wed, 21 Oct 2026 05:13:47 GMT"
       }
+    },
+    {
+      "name": "Bizarre Love Triangle",
+      "artist": {
+        "#text": "Frente!"
+      },
+      "album": {
+        "#text": "Marvin The Album (30th Anniversary Edition)"
+      },
+      "date": {
+        "uts": "1792780999",
+        "#text": "Fri, 23 Oct 2026 18:43:19 GMT"
+      }
+    },
+    {
+      "name": "The Great Divide",
+      "artist": {
+        "#text": "Noah Kahan"
+      },
+      "album": {
+        "#text": "The Great Divide"
+      },
+      "date": {
+        "uts": "1792781119",
+        "#text": "Fri, 23 Oct 2026 18:45:19 GMT"
+      }
     }
   ],
-  "generated": "2026-10-23T17:46:00.891Z"
+  "generated": "2026-10-23T21:08:08.742Z"
 }
