@@ -1011,7 +1011,7 @@
       },
       {
         "artist": {
-          "mbid": "",
+          "mbid": "ba0e7638-0cd6-4ff4-8987-c3e224d22c23",
           "#text": "Kygo"
         },
         "streamable": "0",
@@ -1033,9 +1033,9 @@
             "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/51034bb14a1918b0e63e42623683659a.jpg"
           }
         ],
-        "mbid": "",
+        "mbid": "4c213cbe-da38-4689-b92d-387071f0fcec",
         "album": {
-          "mbid": "",
+          "mbid": "829eb1a3-fa64-460e-ba76-81824a8bfff1",
           "#text": "Before You Know It"
         },
         "name": "Before You Know It",
@@ -1587,7 +1587,7 @@
       },
       {
         "artist": {
-          "mbid": "",
+          "mbid": "ba0e7638-0cd6-4ff4-8987-c3e224d22c23",
           "#text": "Kygo"
         },
         "streamable": "0",
@@ -1609,9 +1609,9 @@
             "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/51034bb14a1918b0e63e42623683659a.jpg"
           }
         ],
-        "mbid": "",
+        "mbid": "4c213cbe-da38-4689-b92d-387071f0fcec",
         "album": {
-          "mbid": "",
+          "mbid": "829eb1a3-fa64-460e-ba76-81824a8bfff1",
           "#text": "Before You Know It"
         },
         "name": "Before You Know It",
@@ -2293,7 +2293,7 @@
             "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c5d7e5f2e3e94ca61f887ec471e98c54.png"
           }
         ],
-        "mbid": "",
+        "mbid": "aaf87332-c8db-45f6-b246-1fda5d796d28",
         "album": {
           "mbid": "f7b6fb61-ddd5-48a5-a9dc-5687948709c6",
           "#text": "Day and Night"
@@ -3591,7 +3591,7 @@
         ],
         "mbid": "",
         "album": {
-          "mbid": "",
+          "mbid": "0ad7d796-6090-42a8-ba24-3cf7ecd80435",
           "#text": "Draw You Out"
         },
         "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
@@ -4813,7 +4813,7 @@
             "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c5d7e5f2e3e94ca61f887ec471e98c54.png"
           }
         ],
-        "mbid": "cf3d559b-2f9d-4823-96d2-ccd08e8a71aa",
+        "mbid": "9fc1ea52-6832-464a-80cc-7550183da252",
         "album": {
           "mbid": "f7b6fb61-ddd5-48a5-a9dc-5687948709c6",
           "#text": "Day and Night"
@@ -6577,7 +6577,7 @@
             "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c5d7e5f2e3e94ca61f887ec471e98c54.png"
           }
         ],
-        "mbid": "cf3d559b-2f9d-4823-96d2-ccd08e8a71aa",
+        "mbid": "9fc1ea52-6832-464a-80cc-7550183da252",
         "album": {
           "mbid": "f7b6fb61-ddd5-48a5-a9dc-5687948709c6",
           "#text": "Day and Night"
