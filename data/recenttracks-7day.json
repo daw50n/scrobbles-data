@@ -597,7 +597,163 @@
         "uts": "1792947231",
         "#text": "Sun, 25 Oct 2026 16:53:51 GMT"
       }
+    },
+    {
+      "name": "Be Kind (with Halsey)",
+      "artist": {
+        "#text": "Marshmello"
+      },
+      "album": {
+        "#text": "Be Kind (with Halsey)"
+      },
+      "date": {
+        "uts": "1792947457",
+        "#text": "Sun, 25 Oct 2026 16:57:37 GMT"
+      }
+    },
+    {
+      "name": "Vertigo",
+      "artist": {
+        "#text": "Griff"
+      },
+      "album": {
+        "#text": "Vertigo"
+      },
+      "date": {
+        "uts": "1792947630",
+        "#text": "Sun, 25 Oct 2026 17:00:30 GMT"
+      }
+    },
+    {
+      "name": "Sixteen and Rising",
+      "artist": {
+        "#text": "Carly Rae Jepsen"
+      },
+      "album": {
+        "#text": "Day and Night (Continued)"
+      },
+      "date": {
+        "uts": "1792947811",
+        "#text": "Sun, 25 Oct 2026 17:03:31 GMT"
+      }
+    },
+    {
+      "name": "Hearts Like Ours",
+      "artist": {
+        "#text": "The Naked and Famous"
+      },
+      "album": {
+        "#text": "In Rolling Waves"
+      },
+      "date": {
+        "uts": "1792948076",
+        "#text": "Sun, 25 Oct 2026 17:07:56 GMT"
+      }
+    },
+    {
+      "name": "Sixteen and Rising",
+      "artist": {
+        "#text": "Carly Rae Jepsen"
+      },
+      "album": {
+        "#text": "Day and Night (Continued)"
+      },
+      "date": {
+        "uts": "1792948491",
+        "#text": "Sun, 25 Oct 2026 17:14:51 GMT"
+      }
+    },
+    {
+      "name": "Sixteen and Rising",
+      "artist": {
+        "#text": "Carly Rae Jepsen"
+      },
+      "album": {
+        "#text": "Day and Night (Continued)"
+      },
+      "date": {
+        "uts": "1792948492",
+        "#text": "Sun, 25 Oct 2026 17:14:52 GMT"
+      }
+    },
+    {
+      "name": "Hearts Like Ours",
+      "artist": {
+        "#text": "The Naked and Famous"
+      },
+      "album": {
+        "#text": "In Rolling Waves"
+      },
+      "date": {
+        "uts": "1792948755",
+        "#text": "Sun, 25 Oct 2026 17:19:15 GMT"
+      }
+    },
+    {
+      "name": "Hearts Like Ours",
+      "artist": {
+        "#text": "The Naked and Famous"
+      },
+      "album": {
+        "#text": "In Rolling Waves"
+      },
+      "date": {
+        "uts": "1792948756",
+        "#text": "Sun, 25 Oct 2026 17:19:16 GMT"
+      }
+    },
+    {
+      "name": "Cold Blue Dawn",
+      "artist": {
+        "#text": "Kings of Leon"
+      },
+      "album": {
+        "#text": "Cold Blue Dawn"
+      },
+      "date": {
+        "uts": "1792949028",
+        "#text": "Sun, 25 Oct 2026 17:23:48 GMT"
+      }
+    },
+    {
+      "name": "Cold Blue Dawn",
+      "artist": {
+        "#text": "Kings of Leon"
+      },
+      "album": {
+        "#text": "Cold Blue Dawn"
+      },
+      "date": {
+        "uts": "1792949029",
+        "#text": "Sun, 25 Oct 2026 17:23:49 GMT"
+      }
+    },
+    {
+      "name": "And It Breaks My Heart",
+      "artist": {
+        "#text": "LÉON"
+      },
+      "album": {
+        "#text": "Apart"
+      },
+      "date": {
+        "uts": "1792949303",
+        "#text": "Sun, 25 Oct 2026 17:28:23 GMT"
+      }
+    },
+    {
+      "name": "And It Breaks My Heart",
+      "artist": {
+        "#text": "LÉON"
+      },
+      "album": {
+        "#text": "Apart"
+      },
+      "date": {
+        "uts": "1792949304",
+        "#text": "Sun, 25 Oct 2026 17:28:24 GMT"
+      }
     }
   ],
-  "generated": "2026-10-25T16:58:56.244Z"
+  "generated": "2026-10-25T19:31:13.916Z"
 }
