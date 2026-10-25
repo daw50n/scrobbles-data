@@ -33,42 +33,6 @@
         "name": "And It Breaks My Heart",
         "url": "https://www.last.fm/music/L%C3%89ON/_/And+It+Breaks+My+Heart",
         "date": {
-          "uts": "1792949304",
-          "#text": "25 Oct 2026, 17:28"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c8be21d2-7aa6-4d6c-a8df-d9e74292439c",
-          "#text": "LÉON"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/645dfc110bbb16726bb71faf6a5d573c.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/645dfc110bbb16726bb71faf6a5d573c.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/645dfc110bbb16726bb71faf6a5d573c.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/645dfc110bbb16726bb71faf6a5d573c.jpg"
-          }
-        ],
-        "mbid": "be954545-a713-4bcf-a9fc-261e7c153627",
-        "album": {
-          "mbid": "95422420-6d5d-4605-a87a-f4d5c230dfa3",
-          "#text": "Apart"
-        },
-        "name": "And It Breaks My Heart",
-        "url": "https://www.last.fm/music/L%C3%89ON/_/And+It+Breaks+My+Heart",
-        "date": {
           "uts": "1792949303",
           "#text": "25 Oct 2026, 17:28"
         }
@@ -111,42 +75,6 @@
       },
       {
         "artist": {
-          "mbid": "6ffb8ea9-2370-44d8-b678-e9237bbd347b",
-          "#text": "Kings of Leon"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/21e5c339aae247634a3563b54b00cc85.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/21e5c339aae247634a3563b54b00cc85.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/21e5c339aae247634a3563b54b00cc85.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/21e5c339aae247634a3563b54b00cc85.jpg"
-          }
-        ],
-        "mbid": "8220a630-3a91-4078-806f-f2f639ab9a4b",
-        "album": {
-          "mbid": "63230563-cc7b-414c-8f49-b9bea5ee0165",
-          "#text": "Cold Blue Dawn"
-        },
-        "name": "Cold Blue Dawn",
-        "url": "https://www.last.fm/music/Kings+of+Leon/_/Cold+Blue+Dawn",
-        "date": {
-          "uts": "1792949028",
-          "#text": "25 Oct 2026, 17:23"
-        }
-      },
-      {
-        "artist": {
           "mbid": "216a7b44-3846-494c-93f5-f2d4d9b95b36",
           "#text": "The Naked and Famous"
         },
@@ -183,42 +111,6 @@
       },
       {
         "artist": {
-          "mbid": "216a7b44-3846-494c-93f5-f2d4d9b95b36",
-          "#text": "The Naked and Famous"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/d2b944220e884bbdba0d08448b475da1.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/d2b944220e884bbdba0d08448b475da1.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/d2b944220e884bbdba0d08448b475da1.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d2b944220e884bbdba0d08448b475da1.png"
-          }
-        ],
-        "mbid": "286fdef3-18a4-4321-ab95-b21031699cde",
-        "album": {
-          "mbid": "1269ede2-a43f-47dc-90a0-97ca261ad7f7",
-          "#text": "In Rolling Waves"
-        },
-        "name": "Hearts Like Ours",
-        "url": "https://www.last.fm/music/The+Naked+and+Famous/_/Hearts+Like+Ours",
-        "date": {
-          "uts": "1792948755",
-          "#text": "25 Oct 2026, 17:19"
-        }
-      },
-      {
-        "artist": {
           "mbid": "09887aa7-226e-4ecc-9a0c-02d2ae5777e1",
           "#text": "Carly Rae Jepsen"
         },
@@ -250,42 +142,6 @@
         "url": "https://www.last.fm/music/Carly+Rae+Jepsen/_/Sixteen+and+Rising",
         "date": {
           "uts": "1792948492",
-          "#text": "25 Oct 2026, 17:14"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "09887aa7-226e-4ecc-9a0c-02d2ae5777e1",
-          "#text": "Carly Rae Jepsen"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/ee530038da0cfb72808cb3e09e7cd5ed.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/ee530038da0cfb72808cb3e09e7cd5ed.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/ee530038da0cfb72808cb3e09e7cd5ed.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ee530038da0cfb72808cb3e09e7cd5ed.jpg"
-          }
-        ],
-        "mbid": "0c487ba0-0e99-458b-9f84-515d967d23e2",
-        "album": {
-          "mbid": "5f4122db-a4b1-4c5c-8c92-68c099196a52",
-          "#text": "Day and Night (Continued)"
-        },
-        "name": "Sixteen and Rising",
-        "url": "https://www.last.fm/music/Carly+Rae+Jepsen/_/Sixteen+and+Rising",
-        "date": {
-          "uts": "1792948491",
           "#text": "25 Oct 2026, 17:14"
         }
       },
@@ -889,7 +745,7 @@
             "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1aa732292c79f4e703545a6fbb834336.jpg"
           }
         ],
-        "mbid": "697801a1-f64a-4c83-b2b4-49700632748a",
+        "mbid": "",
         "album": {
           "mbid": "",
           "#text": "And The Crowd Goes Mild"
@@ -3265,7 +3121,7 @@
             "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c5d7e5f2e3e94ca61f887ec471e98c54.png"
           }
         ],
-        "mbid": "aaf87332-c8db-45f6-b246-1fda5d796d28",
+        "mbid": "",
         "album": {
           "mbid": "f7b6fb61-ddd5-48a5-a9dc-5687948709c6",
           "#text": "Day and Night"
@@ -5785,7 +5641,7 @@
             "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c5d7e5f2e3e94ca61f887ec471e98c54.png"
           }
         ],
-        "mbid": "9fc1ea52-6832-464a-80cc-7550183da252",
+        "mbid": "",
         "album": {
           "mbid": "f7b6fb61-ddd5-48a5-a9dc-5687948709c6",
           "#text": "Day and Night"
@@ -7199,6 +7055,150 @@
         "date": {
           "uts": "1791657106",
           "#text": "10 Oct 2026, 18:31"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Monaco"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/87d055ba91144546c5db9f30cf4bea8f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/87d055ba91144546c5db9f30cf4bea8f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/87d055ba91144546c5db9f30cf4bea8f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/87d055ba91144546c5db9f30cf4bea8f.png"
+          }
+        ],
+        "mbid": "8f71af82-a421-4734-92dd-19fa02974b43",
+        "album": {
+          "mbid": "7d2a140c-8c40-4fc2-bd39-c303723aa67a",
+          "#text": "Music For Pleasure"
+        },
+        "name": "What Do You Want From Me?",
+        "url": "https://www.last.fm/music/Monaco/_/What+Do+You+Want+From+Me%3F",
+        "date": {
+          "uts": "1791656856",
+          "#text": "10 Oct 2026, 18:27"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+          "#text": "The Killers"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/1885b86f55925072c5a6c81350ac5c46.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/1885b86f55925072c5a6c81350ac5c46.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/1885b86f55925072c5a6c81350ac5c46.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1885b86f55925072c5a6c81350ac5c46.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "020464db-29f5-44bc-b938-79846f82ea80",
+          "#text": "Imploding the Mirage"
+        },
+        "name": "My Own Soul’s Warning",
+        "url": "https://www.last.fm/music/The+Killers/_/My+Own+Soul%E2%80%99s+Warning",
+        "date": {
+          "uts": "1791493237",
+          "#text": "08 Oct 2026, 21:00"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "09887aa7-226e-4ecc-9a0c-02d2ae5777e1",
+          "#text": "Carly Rae Jepsen"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/7b42e543600505a5cdc4475e2aa72ebd.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/7b42e543600505a5cdc4475e2aa72ebd.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/7b42e543600505a5cdc4475e2aa72ebd.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7b42e543600505a5cdc4475e2aa72ebd.png"
+          }
+        ],
+        "mbid": "98c7c6b1-1591-411f-a5d2-310b1269a45a",
+        "album": {
+          "mbid": "33e9215f-170b-4fc6-a5b4-6b5d0297977c",
+          "#text": "Dedicated Side B"
+        },
+        "name": "Comeback",
+        "url": "https://www.last.fm/music/Carly+Rae+Jepsen/_/Comeback",
+        "date": {
+          "uts": "1791493048",
+          "#text": "08 Oct 2026, 20:57"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "9e103f85-7af7-41d7-b83b-49ba8f0c5abf",
+          "#text": "Of Monsters and Men"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/e12ab4b64772a72d2e11584b7e15fd1a.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/e12ab4b64772a72d2e11584b7e15fd1a.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/e12ab4b64772a72d2e11584b7e15fd1a.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e12ab4b64772a72d2e11584b7e15fd1a.png"
+          }
+        ],
+        "mbid": "1404f692-57e8-48c5-95a6-0dd80028e21b",
+        "album": {
+          "mbid": "0d9d2fab-b09d-4c69-8b0e-e8a183e17de8",
+          "#text": "FEVER DREAM"
+        },
+        "name": "Wild Roses",
+        "url": "https://www.last.fm/music/Of+Monsters+and+Men/_/Wild+Roses",
+        "date": {
+          "uts": "1791492823",
+          "#text": "08 Oct 2026, 20:53"
         }
       }
     ],
