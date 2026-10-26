@@ -753,7 +753,137 @@
         "uts": "1792949304",
         "#text": "Sun, 25 Oct 2026 17:28:24 GMT"
       }
+    },
+    {
+      "name": "It's Christmas Time Again - Fireside",
+      "artist": {
+        "#text": "Chris Tomlin"
+      },
+      "album": {
+        "#text": "It's Christmas Time Again (Fireside)"
+      },
+      "date": {
+        "uts": "1792968829",
+        "#text": "Sun, 25 Oct 2026 22:53:49 GMT"
+      }
+    },
+    {
+      "name": "Before You Know It",
+      "artist": {
+        "#text": "Kygo"
+      },
+      "album": {
+        "#text": "Before You Know It"
+      },
+      "date": {
+        "uts": "1792968856",
+        "#text": "Sun, 25 Oct 2026 22:54:16 GMT"
+      }
+    },
+    {
+      "name": "Somebody",
+      "artist": {
+        "#text": "Dagny"
+      },
+      "album": {
+        "#text": "Strangers / Lovers"
+      },
+      "date": {
+        "uts": "1792969031",
+        "#text": "Sun, 25 Oct 2026 22:57:11 GMT"
+      }
+    },
+    {
+      "name": "Roses",
+      "artist": {
+        "#text": "CHVRCHES"
+      },
+      "album": {
+        "#text": "Roses"
+      },
+      "date": {
+        "uts": "1792969276",
+        "#text": "Sun, 25 Oct 2026 23:01:16 GMT"
+      }
+    },
+    {
+      "name": "Test My Luck",
+      "artist": {
+        "#text": "Purple Disco Machine"
+      },
+      "album": {
+        "#text": "Test My Luck"
+      },
+      "date": {
+        "uts": "1792969469",
+        "#text": "Sun, 25 Oct 2026 23:04:29 GMT"
+      }
+    },
+    {
+      "name": "i think he's got a girl",
+      "artist": {
+        "#text": "Slayyyter"
+      },
+      "album": {
+        "#text": "i think he's got a girl"
+      },
+      "date": {
+        "uts": "1792969672",
+        "#text": "Sun, 25 Oct 2026 23:07:52 GMT"
+      }
+    },
+    {
+      "name": "Hurt",
+      "artist": {
+        "#text": "Icona Pop"
+      },
+      "album": {
+        "#text": "Ritual"
+      },
+      "date": {
+        "uts": "1792969851",
+        "#text": "Sun, 25 Oct 2026 23:10:51 GMT"
+      }
+    },
+    {
+      "name": "Shy Girl",
+      "artist": {
+        "#text": "Haute & Freddy"
+      },
+      "album": {
+        "#text": "Big Disgrace"
+      },
+      "date": {
+        "uts": "1792970047",
+        "#text": "Sun, 25 Oct 2026 23:14:07 GMT"
+      }
+    },
+    {
+      "name": "Dancing on My Own",
+      "artist": {
+        "#text": "Robyn"
+      },
+      "album": {
+        "#text": "Body Talk"
+      },
+      "date": {
+        "uts": "1792970239",
+        "#text": "Sun, 25 Oct 2026 23:17:19 GMT"
+      }
+    },
+    {
+      "name": "Higher",
+      "artist": {
+        "#text": "The Naked and Famous"
+      },
+      "album": {
+        "#text": "Simple Forms"
+      },
+      "date": {
+        "uts": "1792970496",
+        "#text": "Sun, 25 Oct 2026 23:21:36 GMT"
+      }
     }
   ],
-  "generated": "2026-10-25T22:21:52.844Z"
+  "generated": "2026-10-26T01:02:07.367Z"
 }
