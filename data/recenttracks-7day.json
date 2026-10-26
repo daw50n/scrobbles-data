@@ -740,7 +740,85 @@
         "uts": "1793017632",
         "#text": "Mon, 26 Oct 2026 12:27:12 GMT"
       }
+    },
+    {
+      "name": "Ruby",
+      "artist": {
+        "#text": "Kaiser Chiefs"
+      },
+      "album": {
+        "#text": "Yours Truly, Angry Mob (Deluxe)"
+      },
+      "date": {
+        "uts": "1793056431",
+        "#text": "Mon, 26 Oct 2026 23:13:51 GMT"
+      }
+    },
+    {
+      "name": "I Predict a Riot",
+      "artist": {
+        "#text": "Kaiser Chiefs"
+      },
+      "album": {
+        "#text": "Employment"
+      },
+      "date": {
+        "uts": "1793056636",
+        "#text": "Mon, 26 Oct 2026 23:17:16 GMT"
+      }
+    },
+    {
+      "name": "Everyday I Love You Less and Less",
+      "artist": {
+        "#text": "Kaiser Chiefs"
+      },
+      "album": {
+        "#text": "Employment"
+      },
+      "date": {
+        "uts": "1793056869",
+        "#text": "Mon, 26 Oct 2026 23:21:09 GMT"
+      }
+    },
+    {
+      "name": "Never Miss a Beat",
+      "artist": {
+        "#text": "Kaiser Chiefs"
+      },
+      "album": {
+        "#text": "Off with Their Heads"
+      },
+      "date": {
+        "uts": "1793057087",
+        "#text": "Mon, 26 Oct 2026 23:24:47 GMT"
+      }
+    },
+    {
+      "name": "Modern Way",
+      "artist": {
+        "#text": "Kaiser Chiefs"
+      },
+      "album": {
+        "#text": "Employment"
+      },
+      "date": {
+        "uts": "1793057275",
+        "#text": "Mon, 26 Oct 2026 23:27:55 GMT"
+      }
+    },
+    {
+      "name": "Oh My God",
+      "artist": {
+        "#text": "Kaiser Chiefs"
+      },
+      "album": {
+        "#text": "Employment"
+      },
+      "date": {
+        "uts": "1793057519",
+        "#text": "Mon, 26 Oct 2026 23:31:59 GMT"
+      }
     }
   ],
-  "generated": "2026-10-26T19:51:44.874Z"
+  "generated": "2026-10-26T23:37:48.476Z"
 }

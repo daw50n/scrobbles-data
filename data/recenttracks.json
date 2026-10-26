@@ -3,6 +3,222 @@
     "track": [
       {
         "artist": {
+          "mbid": "90218af4-4d58-4821-8d41-2ee295ebbe21",
+          "#text": "Kaiser Chiefs"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/245b232cde684c23b6531acf5086a0db.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/245b232cde684c23b6531acf5086a0db.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/245b232cde684c23b6531acf5086a0db.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/245b232cde684c23b6531acf5086a0db.png"
+          }
+        ],
+        "mbid": "39de924e-8587-4215-846b-9ba281a24925",
+        "album": {
+          "mbid": "0f265801-a45e-4890-9bcf-8bbd8c1733a1",
+          "#text": "Employment"
+        },
+        "name": "Oh My God",
+        "url": "https://www.last.fm/music/Kaiser+Chiefs/_/Oh+My+God",
+        "date": {
+          "uts": "1793057519",
+          "#text": "26 Oct 2026, 23:31"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "90218af4-4d58-4821-8d41-2ee295ebbe21",
+          "#text": "Kaiser Chiefs"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/245b232cde684c23b6531acf5086a0db.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/245b232cde684c23b6531acf5086a0db.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/245b232cde684c23b6531acf5086a0db.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/245b232cde684c23b6531acf5086a0db.png"
+          }
+        ],
+        "mbid": "03902941-c292-4044-87b9-b23d87d8cdbb",
+        "album": {
+          "mbid": "0f265801-a45e-4890-9bcf-8bbd8c1733a1",
+          "#text": "Employment"
+        },
+        "name": "Modern Way",
+        "url": "https://www.last.fm/music/Kaiser+Chiefs/_/Modern+Way",
+        "date": {
+          "uts": "1793057275",
+          "#text": "26 Oct 2026, 23:27"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "90218af4-4d58-4821-8d41-2ee295ebbe21",
+          "#text": "Kaiser Chiefs"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/a87acadca8e748a2a9009b5ab7be491e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/a87acadca8e748a2a9009b5ab7be491e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/a87acadca8e748a2a9009b5ab7be491e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a87acadca8e748a2a9009b5ab7be491e.jpg"
+          }
+        ],
+        "mbid": "11c7c1b4-f930-3a5d-97c7-11411ca5c354",
+        "album": {
+          "mbid": "075990bd-7870-394d-a9d6-382dff354f2b",
+          "#text": "Off with Their Heads"
+        },
+        "name": "Never Miss a Beat",
+        "url": "https://www.last.fm/music/Kaiser+Chiefs/_/Never+Miss+a+Beat",
+        "date": {
+          "uts": "1793057087",
+          "#text": "26 Oct 2026, 23:24"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "90218af4-4d58-4821-8d41-2ee295ebbe21",
+          "#text": "Kaiser Chiefs"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/245b232cde684c23b6531acf5086a0db.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/245b232cde684c23b6531acf5086a0db.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/245b232cde684c23b6531acf5086a0db.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/245b232cde684c23b6531acf5086a0db.png"
+          }
+        ],
+        "mbid": "5e69486b-8495-479d-a609-6c7dd3ed9d20",
+        "album": {
+          "mbid": "0f265801-a45e-4890-9bcf-8bbd8c1733a1",
+          "#text": "Employment"
+        },
+        "name": "Everyday I Love You Less and Less",
+        "url": "https://www.last.fm/music/Kaiser+Chiefs/_/Everyday+I+Love+You+Less+and+Less",
+        "date": {
+          "uts": "1793056869",
+          "#text": "26 Oct 2026, 23:21"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "90218af4-4d58-4821-8d41-2ee295ebbe21",
+          "#text": "Kaiser Chiefs"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/245b232cde684c23b6531acf5086a0db.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/245b232cde684c23b6531acf5086a0db.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/245b232cde684c23b6531acf5086a0db.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/245b232cde684c23b6531acf5086a0db.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "0f265801-a45e-4890-9bcf-8bbd8c1733a1",
+          "#text": "Employment"
+        },
+        "name": "I Predict a Riot",
+        "url": "https://www.last.fm/music/Kaiser+Chiefs/_/I+Predict+a+Riot",
+        "date": {
+          "uts": "1793056636",
+          "#text": "26 Oct 2026, 23:17"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "90218af4-4d58-4821-8d41-2ee295ebbe21",
+          "#text": "Kaiser Chiefs"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2c4955ccfd9848c9c87abbeee466cb79.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2c4955ccfd9848c9c87abbeee466cb79.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2c4955ccfd9848c9c87abbeee466cb79.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2c4955ccfd9848c9c87abbeee466cb79.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Yours Truly, Angry Mob (Deluxe)"
+        },
+        "name": "Ruby",
+        "url": "https://www.last.fm/music/Kaiser+Chiefs/_/Ruby",
+        "date": {
+          "uts": "1793056431",
+          "#text": "26 Oct 2026, 23:13"
+        }
+      },
+      {
+        "artist": {
           "mbid": "e105c272-b5d7-4135-82ef-d60bded54345",
           "#text": "The Wombats"
         },
@@ -1717,7 +1933,7 @@
             "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b3e1d0c3b8b551808a5a1812efbc5274.jpg"
           }
         ],
-        "mbid": "",
+        "mbid": "697801a1-f64a-4c83-b2b4-49700632748a",
         "album": {
           "mbid": "",
           "#text": "And The Crowd Goes Mild"
@@ -5391,7 +5607,7 @@
         ],
         "mbid": "",
         "album": {
-          "mbid": "0ad7d796-6090-42a8-ba24-3cf7ecd80435",
+          "mbid": "",
           "#text": "Draw You Out"
         },
         "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
@@ -6984,226 +7200,10 @@
           "uts": "1791711949",
           "#text": "11 Oct 2026, 09:45"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c2c70ed6-5f10-445c-969f-2c16bc9a4c2e",
-          "#text": "Sixpence None the Richer"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/7e8aa58fcd8e7b2280c2e8a3fbf8d799.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/7e8aa58fcd8e7b2280c2e8a3fbf8d799.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/7e8aa58fcd8e7b2280c2e8a3fbf8d799.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7e8aa58fcd8e7b2280c2e8a3fbf8d799.png"
-          }
-        ],
-        "mbid": "2ed181da-a625-4873-ae0b-7e94e03a9823",
-        "album": {
-          "mbid": "24efdbe1-a15d-4cc0-a6d7-59bd1ebbdcc3",
-          "#text": "Sixpence None the Richer"
-        },
-        "name": "There She Goes",
-        "url": "https://www.last.fm/music/Sixpence+None+the+Richer/_/There+She+Goes",
-        "date": {
-          "uts": "1791711784",
-          "#text": "11 Oct 2026, 09:43"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "0039c7ae-e1a7-4a7d-9b49-0cbc716821a6",
-          "#text": "Death Cab for Cutie"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/e86cef03deaf9a1293c098b721f98675.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/e86cef03deaf9a1293c098b721f98675.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/e86cef03deaf9a1293c098b721f98675.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e86cef03deaf9a1293c098b721f98675.jpg"
-          }
-        ],
-        "mbid": "8e04cde5-c37d-4196-b93c-c5cdaf9daedb",
-        "album": {
-          "mbid": "",
-          "#text": "Asphalt Meadows"
-        },
-        "name": "Pepper",
-        "url": "https://www.last.fm/music/Death+Cab+for+Cutie/_/Pepper",
-        "date": {
-          "uts": "1791711615",
-          "#text": "11 Oct 2026, 09:40"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "4449ccf6-c948-4d33-aa97-b6ad98ce4b5b",
-          "#text": "Metric"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/98939bf5d8dc0e59c89dbe7e303f5c6c.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/98939bf5d8dc0e59c89dbe7e303f5c6c.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/98939bf5d8dc0e59c89dbe7e303f5c6c.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/98939bf5d8dc0e59c89dbe7e303f5c6c.jpg"
-          }
-        ],
-        "mbid": "002bf6f3-04a4-3415-8742-e10a093ec79f",
-        "album": {
-          "mbid": "11b58ffb-1b0e-3bae-a969-baa106727be3",
-          "#text": "Fantasies"
-        },
-        "name": "Gimme Sympathy",
-        "url": "https://www.last.fm/music/Metric/_/Gimme+Sympathy",
-        "date": {
-          "uts": "1791711380",
-          "#text": "11 Oct 2026, 09:36"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "0103c1cc-4a09-4a5d-a344-56ad99a77193",
-          "#text": "Avril Lavigne"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2afa9f89a4ba981d3c6876e2e1725f28.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2afa9f89a4ba981d3c6876e2e1725f28.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2afa9f89a4ba981d3c6876e2e1725f28.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2afa9f89a4ba981d3c6876e2e1725f28.jpg"
-          }
-        ],
-        "mbid": "be8f0cad-8afc-418d-bff6-2f8efc165f09",
-        "album": {
-          "mbid": "002a0094-40b7-4403-99ab-f3b0daeffacd",
-          "#text": "Let Go"
-        },
-        "name": "I'm with You",
-        "url": "https://www.last.fm/music/Avril+Lavigne/_/I%27m+with+You",
-        "date": {
-          "uts": "1791711157",
-          "#text": "11 Oct 2026, 09:32"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "ad61e25e-5516-41e1-b60d-744e8220986e",
-          "#text": "Shiny Toy Guns"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/51f295fbbce1ad3d175c0785e9dd1522.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/51f295fbbce1ad3d175c0785e9dd1522.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/51f295fbbce1ad3d175c0785e9dd1522.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/51f295fbbce1ad3d175c0785e9dd1522.png"
-          }
-        ],
-        "mbid": "4f03774f-b11a-4401-adac-30b9c44d3234",
-        "album": {
-          "mbid": "",
-          "#text": "III (Deluxe)"
-        },
-        "name": "If I Lost You",
-        "url": "https://www.last.fm/music/Shiny+Toy+Guns/_/If+I+Lost+You",
-        "date": {
-          "uts": "1791710903",
-          "#text": "11 Oct 2026, 09:28"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Lights"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/9c019286f3282154a84d5f149e2b938c.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/9c019286f3282154a84d5f149e2b938c.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/9c019286f3282154a84d5f149e2b938c.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/9c019286f3282154a84d5f149e2b938c.jpg"
-          }
-        ],
-        "mbid": "5c9faf25-c52b-4b8d-8141-03865f4840f5",
-        "album": {
-          "mbid": "742ceb4b-15f7-41cf-8d8d-732df46c0bfb",
-          "#text": "A6"
-        },
-        "name": "Piranha",
-        "url": "https://www.last.fm/music/Lights/_/Piranha",
-        "date": {
-          "uts": "1791710620",
-          "#text": "11 Oct 2026, 09:23"
-        }
       }
     ],
     "@attr": {
-      "total": "4013"
+      "total": "4019"
     }
   }
 }
