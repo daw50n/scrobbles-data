@@ -883,7 +883,228 @@
         "uts": "1792970496",
         "#text": "Sun, 25 Oct 2026 23:21:36 GMT"
       }
+    },
+    {
+      "name": "Survive",
+      "artist": {
+        "#text": "VHS Collection"
+      },
+      "album": {
+        "#text": "Night Drive"
+      },
+      "date": {
+        "uts": "1793013371",
+        "#text": "Mon, 26 Oct 2026 11:16:11 GMT"
+      }
+    },
+    {
+      "name": "Human",
+      "artist": {
+        "#text": "The Killers"
+      },
+      "album": {
+        "#text": "Day & Age (Bonus Tracks)"
+      },
+      "date": {
+        "uts": "1793013510",
+        "#text": "Mon, 26 Oct 2026 11:18:30 GMT"
+      }
+    },
+    {
+      "name": "Pure Shores",
+      "artist": {
+        "#text": "All Saints"
+      },
+      "album": {
+        "#text": "Saints & Sinners (25th Anniversary Edition)"
+      },
+      "date": {
+        "uts": "1793013786",
+        "#text": "Mon, 26 Oct 2026 11:23:06 GMT"
+      }
+    },
+    {
+      "name": "Young Blood",
+      "artist": {
+        "#text": "The Naked and Famous"
+      },
+      "album": {
+        "#text": "Passive Me, Aggressive You"
+      },
+      "date": {
+        "uts": "1793014041",
+        "#text": "Mon, 26 Oct 2026 11:27:21 GMT"
+      }
+    },
+    {
+      "name": "To Love Somebody",
+      "artist": {
+        "#text": "Holly Humberstone"
+      },
+      "album": {
+        "#text": "Cruel World"
+      },
+      "date": {
+        "uts": "1793014262",
+        "#text": "Mon, 26 Oct 2026 11:31:02 GMT"
+      }
+    },
+    {
+      "name": "Our Year",
+      "artist": {
+        "#text": "Tegan and Sara"
+      },
+      "album": {
+        "#text": "Our Year"
+      },
+      "date": {
+        "uts": "1793014501",
+        "#text": "Mon, 26 Oct 2026 11:35:01 GMT"
+      }
+    },
+    {
+      "name": "Shiny Happy People",
+      "artist": {
+        "#text": "R.E.M."
+      },
+      "album": {
+        "#text": "Out Of Time (25th Anniversary Edition)"
+      },
+      "date": {
+        "uts": "1793014657",
+        "#text": "Mon, 26 Oct 2026 11:37:37 GMT"
+      }
+    },
+    {
+      "name": "On Melancholy Hill",
+      "artist": {
+        "#text": "Gorillaz"
+      },
+      "album": {
+        "#text": "Plastic Beach"
+      },
+      "date": {
+        "uts": "1793015418",
+        "#text": "Mon, 26 Oct 2026 11:50:18 GMT"
+      }
+    },
+    {
+      "name": "What You Know",
+      "artist": {
+        "#text": "Two Door Cinema Club"
+      },
+      "album": {
+        "#text": "Tourist History"
+      },
+      "date": {
+        "uts": "1793015680",
+        "#text": "Mon, 26 Oct 2026 11:54:40 GMT"
+      }
+    },
+    {
+      "name": "Pumped Up Kicks",
+      "artist": {
+        "#text": "Foster the People"
+      },
+      "album": {
+        "#text": "Torches"
+      },
+      "date": {
+        "uts": "1793015918",
+        "#text": "Mon, 26 Oct 2026 11:58:38 GMT"
+      }
+    },
+    {
+      "name": "Crossfire",
+      "artist": {
+        "#text": "Brandon Flowers"
+      },
+      "album": {
+        "#text": "Flamingo"
+      },
+      "date": {
+        "uts": "1793016158",
+        "#text": "Mon, 26 Oct 2026 12:02:38 GMT"
+      }
+    },
+    {
+      "name": "Sprawl II (Mountains Beyond Mountains)",
+      "artist": {
+        "#text": "Arcade Fire"
+      },
+      "album": {
+        "#text": "The Suburbs"
+      },
+      "date": {
+        "uts": "1793016415",
+        "#text": "Mon, 26 Oct 2026 12:06:55 GMT"
+      }
+    },
+    {
+      "name": "Moving To New York",
+      "artist": {
+        "#text": "The Wombats"
+      },
+      "album": {
+        "#text": "Proudly Present... A Guide To Love, Loss & Desperation"
+      },
+      "date": {
+        "uts": "1793016680",
+        "#text": "Mon, 26 Oct 2026 12:11:20 GMT"
+      }
+    },
+    {
+      "name": "Tokyo (Vampires & Wolves)",
+      "artist": {
+        "#text": "The Wombats"
+      },
+      "album": {
+        "#text": "The Wombats Proudly Present... This Modern Glitch (10th Anniversary Edition)"
+      },
+      "date": {
+        "uts": "1793016890",
+        "#text": "Mon, 26 Oct 2026 12:14:50 GMT"
+      }
+    },
+    {
+      "name": "Turn",
+      "artist": {
+        "#text": "The Wombats"
+      },
+      "album": {
+        "#text": "Beautiful People Will Ruin Your Life"
+      },
+      "date": {
+        "uts": "1793017117",
+        "#text": "Mon, 26 Oct 2026 12:18:37 GMT"
+      }
+    },
+    {
+      "name": "Greek Tragedy - Oliver Nelson TikTok Remix",
+      "artist": {
+        "#text": "The Wombats"
+      },
+      "album": {
+        "#text": "Greek Tragedy (Oliver Nelson TikTok Remix)"
+      },
+      "date": {
+        "uts": "1793017325",
+        "#text": "Mon, 26 Oct 2026 12:22:05 GMT"
+      }
+    },
+    {
+      "name": "Let's Dance to Joy Division",
+      "artist": {
+        "#text": "The Wombats"
+      },
+      "album": {
+        "#text": "Proudly Present... A Guide To Love, Loss & Desperation"
+      },
+      "date": {
+        "uts": "1793017632",
+        "#text": "Mon, 26 Oct 2026 12:27:12 GMT"
+      }
     }
   ],
-  "generated": "2026-10-26T01:02:07.367Z"
+  "generated": "2026-10-26T13:59:46.915Z"
 }
