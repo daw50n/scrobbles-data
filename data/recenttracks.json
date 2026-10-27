@@ -1155,7 +1155,7 @@
       },
       {
         "artist": {
-          "mbid": "",
+          "mbid": "b50b36b5-aec1-401f-a722-e5ab673af14d",
           "#text": "Chris Tomlin"
         },
         "streamable": "0",
@@ -1933,7 +1933,7 @@
             "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b3e1d0c3b8b551808a5a1812efbc5274.jpg"
           }
         ],
-        "mbid": "697801a1-f64a-4c83-b2b4-49700632748a",
+        "mbid": "",
         "album": {
           "mbid": "",
           "#text": "And The Crowd Goes Mild"
