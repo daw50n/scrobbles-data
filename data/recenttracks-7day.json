@@ -1052,7 +1052,267 @@
         "uts": "1793179403",
         "#text": "Wed, 28 Oct 2026 09:23:23 GMT"
       }
+    },
+    {
+      "name": "Up next",
+      "artist": {
+        "#text": "DJ X"
+      },
+      "album": {
+        "#text": "DJ"
+      },
+      "date": {
+        "uts": "1793210135",
+        "#text": "Wed, 28 Oct 2026 17:55:35 GMT"
+      }
+    },
+    {
+      "name": "Shy Girl",
+      "artist": {
+        "#text": "Haute & Freddy"
+      },
+      "album": {
+        "#text": "Big Disgrace"
+      },
+      "date": {
+        "uts": "1793210218",
+        "#text": "Wed, 28 Oct 2026 17:56:58 GMT"
+      }
+    },
+    {
+      "name": "Blame Brett",
+      "artist": {
+        "#text": "The Beaches"
+      },
+      "album": {
+        "#text": "Blame My Ex"
+      },
+      "date": {
+        "uts": "1793210399",
+        "#text": "Wed, 28 Oct 2026 17:59:59 GMT"
+      }
+    },
+    {
+      "name": "How Bad Do U Want Me",
+      "artist": {
+        "#text": "Lady Gaga"
+      },
+      "album": {
+        "#text": "MAYHEM"
+      },
+      "date": {
+        "uts": "1793210567",
+        "#text": "Wed, 28 Oct 2026 18:02:47 GMT"
+      }
+    },
+    {
+      "name": "The Fate of Ophelia - The Chainsmokers Remix",
+      "artist": {
+        "#text": "Taylor Swift"
+      },
+      "album": {
+        "#text": "The Fate of Ophelia (The Chainsmokers Remix)"
+      },
+      "date": {
+        "uts": "1793210798",
+        "#text": "Wed, 28 Oct 2026 18:06:38 GMT"
+      }
+    },
+    {
+      "name": "Sue me",
+      "artist": {
+        "#text": "Audrey Hobert"
+      },
+      "album": {
+        "#text": "Who's the Clown?"
+      },
+      "date": {
+        "uts": "1793210966",
+        "#text": "Wed, 28 Oct 2026 18:09:26 GMT"
+      }
+    },
+    {
+      "name": "Up next",
+      "artist": {
+        "#text": "DJ X"
+      },
+      "album": {
+        "#text": "DJ"
+      },
+      "date": {
+        "uts": "1793211175",
+        "#text": "Wed, 28 Oct 2026 18:12:55 GMT"
+      }
+    },
+    {
+      "name": "Sue me",
+      "artist": {
+        "#text": "Audrey Hobert"
+      },
+      "album": {
+        "#text": "Who's the Clown?"
+      },
+      "date": {
+        "uts": "1793211286",
+        "#text": "Wed, 28 Oct 2026 18:14:46 GMT"
+      }
+    },
+    {
+      "name": "Sue me",
+      "artist": {
+        "#text": "Audrey Hobert"
+      },
+      "album": {
+        "#text": "Who's the Clown?"
+      },
+      "date": {
+        "uts": "1793211431",
+        "#text": "Wed, 28 Oct 2026 18:17:11 GMT"
+      }
+    },
+    {
+      "name": "Up next",
+      "artist": {
+        "#text": "DJ X"
+      },
+      "album": {
+        "#text": "DJ"
+      },
+      "date": {
+        "uts": "1793211607",
+        "#text": "Wed, 28 Oct 2026 18:20:07 GMT"
+      }
+    },
+    {
+      "name": "He Said She Said",
+      "artist": {
+        "#text": "CHVRCHES"
+      },
+      "album": {
+        "#text": "Screen Violence: Director’s Cut"
+      },
+      "date": {
+        "uts": "1793211709",
+        "#text": "Wed, 28 Oct 2026 18:21:49 GMT"
+      }
+    },
+    {
+      "name": "Neverland",
+      "artist": {
+        "#text": "Kyla La Grange"
+      },
+      "album": {
+        "#text": "While Your Heart's Still Beating"
+      },
+      "date": {
+        "uts": "1793212561",
+        "#text": "Wed, 28 Oct 2026 18:36:01 GMT"
+      }
+    },
+    {
+      "name": "Fool 4 You",
+      "artist": {
+        "#text": "Mr Little Jeans"
+      },
+      "album": {
+        "#text": "Fool 4 You"
+      },
+      "date": {
+        "uts": "1793212727",
+        "#text": "Wed, 28 Oct 2026 18:38:47 GMT"
+      }
+    },
+    {
+      "name": "Now Or Never Now",
+      "artist": {
+        "#text": "Metric"
+      },
+      "album": {
+        "#text": "Art of Doubt"
+      },
+      "date": {
+        "uts": "1793213546",
+        "#text": "Wed, 28 Oct 2026 18:52:26 GMT"
+      }
+    },
+    {
+      "name": "Storm",
+      "artist": {
+        "#text": "Paperwhite"
+      },
+      "album": {
+        "#text": "Escape"
+      },
+      "date": {
+        "uts": "1793213843",
+        "#text": "Wed, 28 Oct 2026 18:57:23 GMT"
+      }
+    },
+    {
+      "name": "Up next",
+      "artist": {
+        "#text": "DJ X"
+      },
+      "album": {
+        "#text": "DJ"
+      },
+      "date": {
+        "uts": "1793214085",
+        "#text": "Wed, 28 Oct 2026 19:01:25 GMT"
+      }
+    },
+    {
+      "name": "Seventeen Going Under",
+      "artist": {
+        "#text": "Sam Fender"
+      },
+      "album": {
+        "#text": "Seventeen Going Under (Deluxe)"
+      },
+      "date": {
+        "uts": "1793214205",
+        "#text": "Wed, 28 Oct 2026 19:03:25 GMT"
+      }
+    },
+    {
+      "name": "Alligator",
+      "artist": {
+        "#text": "Of Monsters and Men"
+      },
+      "album": {
+        "#text": "FEVER DREAM"
+      },
+      "date": {
+        "uts": "1793214702",
+        "#text": "Wed, 28 Oct 2026 19:11:42 GMT"
+      }
+    },
+    {
+      "name": "Tokyo (Vampires & Wolves)",
+      "artist": {
+        "#text": "The Wombats"
+      },
+      "album": {
+        "#text": "The Wombats Proudly Present... This Modern Glitch (10th Anniversary Edition)"
+      },
+      "date": {
+        "uts": "1793214883",
+        "#text": "Wed, 28 Oct 2026 19:14:43 GMT"
+      }
+    },
+    {
+      "name": "Touch Touch",
+      "artist": {
+        "#text": "Haute & Freddy"
+      },
+      "album": {
+        "#text": "Touch Touch"
+      },
+      "date": {
+        "uts": "1793215107",
+        "#text": "Wed, 28 Oct 2026 19:18:27 GMT"
+      }
     }
   ],
-  "generated": "2026-10-28T13:52:47.749Z"
+  "generated": "2026-10-28T19:23:05.385Z"
 }
