@@ -1312,7 +1312,163 @@
         "uts": "1793215107",
         "#text": "Wed, 28 Oct 2026 19:18:27 GMT"
       }
+    },
+    {
+      "name": "In My Bones",
+      "artist": {
+        "#text": "Dagny"
+      },
+      "album": {
+        "#text": "Elle"
+      },
+      "date": {
+        "uts": "1793228475",
+        "#text": "Wed, 28 Oct 2026 23:01:15 GMT"
+      }
+    },
+    {
+      "name": "Alive Again",
+      "artist": {
+        "#text": "Lights"
+      },
+      "album": {
+        "#text": "A6"
+      },
+      "date": {
+        "uts": "1793228625",
+        "#text": "Wed, 28 Oct 2026 23:03:45 GMT"
+      }
+    },
+    {
+      "name": "Keeping score",
+      "artist": {
+        "#text": "Sasha Alex Sloan"
+      },
+      "album": {
+        "#text": "And The Crowd Goes Mild"
+      },
+      "date": {
+        "uts": "1793228837",
+        "#text": "Wed, 28 Oct 2026 23:07:17 GMT"
+      }
+    },
+    {
+      "name": "Screaming",
+      "artist": {
+        "#text": "CHVRCHES"
+      },
+      "album": {
+        "#text": "Screen Violence: Director’s Cut"
+      },
+      "date": {
+        "uts": "1793229015",
+        "#text": "Wed, 28 Oct 2026 23:10:15 GMT"
+      }
+    },
+    {
+      "name": "Paths in the Sky",
+      "artist": {
+        "#text": "Metric"
+      },
+      "album": {
+        "#text": "Formentera"
+      },
+      "date": {
+        "uts": "1793229239",
+        "#text": "Wed, 28 Oct 2026 23:13:59 GMT"
+      }
+    },
+    {
+      "name": "Wild Roses",
+      "artist": {
+        "#text": "Of Monsters and Men"
+      },
+      "album": {
+        "#text": "FEVER DREAM"
+      },
+      "date": {
+        "uts": "1793229509",
+        "#text": "Wed, 28 Oct 2026 23:18:29 GMT"
+      }
+    },
+    {
+      "name": "Magic",
+      "artist": {
+        "#text": "Paperwhite"
+      },
+      "album": {
+        "#text": "Magic"
+      },
+      "date": {
+        "uts": "1793229732",
+        "#text": "Wed, 28 Oct 2026 23:22:12 GMT"
+      }
+    },
+    {
+      "name": "Stolen Days",
+      "artist": {
+        "#text": "Dear Rouge"
+      },
+      "album": {
+        "#text": "PHASES (Deluxe)"
+      },
+      "date": {
+        "uts": "1793229958",
+        "#text": "Wed, 28 Oct 2026 23:25:58 GMT"
+      }
+    },
+    {
+      "name": "Shapeshifter",
+      "artist": {
+        "#text": "Lorde"
+      },
+      "album": {
+        "#text": "Virgin"
+      },
+      "date": {
+        "uts": "1793230171",
+        "#text": "Wed, 28 Oct 2026 23:29:31 GMT"
+      }
+    },
+    {
+      "name": "Roses",
+      "artist": {
+        "#text": "CHVRCHES"
+      },
+      "album": {
+        "#text": "Roses"
+      },
+      "date": {
+        "uts": "1793230430",
+        "#text": "Wed, 28 Oct 2026 23:33:50 GMT"
+      }
+    },
+    {
+      "name": "Rein Me In (with Olivia Dean)",
+      "artist": {
+        "#text": "Sam Fender"
+      },
+      "album": {
+        "#text": "People Watching (Deluxe Edition)"
+      },
+      "date": {
+        "uts": "1793230623",
+        "#text": "Wed, 28 Oct 2026 23:37:03 GMT"
+      }
+    },
+    {
+      "name": "Here with Me",
+      "artist": {
+        "#text": "Dido"
+      },
+      "album": {
+        "#text": "No Angel"
+      },
+      "date": {
+        "uts": "1793230900",
+        "#text": "Wed, 28 Oct 2026 23:41:40 GMT"
+      }
     }
   ],
-  "generated": "2026-10-28T19:23:05.385Z"
+  "generated": "2026-10-28T23:55:19.361Z"
 }
