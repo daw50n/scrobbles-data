@@ -1,19 +1,6 @@
 {
   "tracks": [
     {
-      "name": "All These Things That I've Done",
-      "artist": {
-        "#text": "The Killers"
-      },
-      "album": {
-        "#text": "Hot Fuss"
-      },
-      "date": {
-        "uts": "1792559627",
-        "#text": "Wed, 21 Oct 2026 05:13:47 GMT"
-      }
-    },
-    {
       "name": "Bizarre Love Triangle",
       "artist": {
         "#text": "Frente!"
@@ -870,7 +857,202 @@
         "uts": "1793143688",
         "#text": "Tue, 27 Oct 2026 23:28:08 GMT"
       }
+    },
+    {
+      "name": "Full of life",
+      "artist": {
+        "#text": "Christine and the Queens"
+      },
+      "album": {
+        "#text": "PARANOÏA, ANGELS, TRUE LOVE"
+      },
+      "date": {
+        "uts": "1793175657",
+        "#text": "Wed, 28 Oct 2026 08:20:57 GMT"
+      }
+    },
+    {
+      "name": "This Year's Love",
+      "artist": {
+        "#text": "David Gray"
+      },
+      "album": {
+        "#text": "White Ladder"
+      },
+      "date": {
+        "uts": "1793175862",
+        "#text": "Wed, 28 Oct 2026 08:24:22 GMT"
+      }
+    },
+    {
+      "name": "Ghostkeeper",
+      "artist": {
+        "#text": "Klangkarussell, GIVVEN"
+      },
+      "album": {
+        "#text": "Ghostkeeper"
+      },
+      "date": {
+        "uts": "1793176108",
+        "#text": "Wed, 28 Oct 2026 08:28:28 GMT"
+      }
+    },
+    {
+      "name": "Blouson Noir",
+      "artist": {
+        "#text": "Aaron"
+      },
+      "album": {
+        "#text": "We Cut The Night"
+      },
+      "date": {
+        "uts": "1793176440",
+        "#text": "Wed, 28 Oct 2026 08:34:00 GMT"
+      }
+    },
+    {
+      "name": "Baby It's You",
+      "artist": {
+        "#text": "London Grammar"
+      },
+      "album": {
+        "#text": "Californian Soil"
+      },
+      "date": {
+        "uts": "1793176718",
+        "#text": "Wed, 28 Oct 2026 08:38:38 GMT"
+      }
+    },
+    {
+      "name": "Wait",
+      "artist": {
+        "#text": "M83"
+      },
+      "album": {
+        "#text": "Hurry Up, We're Dreaming"
+      },
+      "date": {
+        "uts": "1793176962",
+        "#text": "Wed, 28 Oct 2026 08:42:42 GMT"
+      }
+    },
+    {
+      "name": "Loud - Shura Remix",
+      "artist": {
+        "#text": "Delilah Montagu"
+      },
+      "album": {
+        "#text": "Loud (Shura Remix)"
+      },
+      "date": {
+        "uts": "1793177305",
+        "#text": "Wed, 28 Oct 2026 08:48:25 GMT"
+      }
+    },
+    {
+      "name": "Red Eyes",
+      "artist": {
+        "#text": "The War on Drugs"
+      },
+      "album": {
+        "#text": "Lost in the Dream"
+      },
+      "date": {
+        "uts": "1793177517",
+        "#text": "Wed, 28 Oct 2026 08:51:57 GMT"
+      }
+    },
+    {
+      "name": "Pure Shores",
+      "artist": {
+        "#text": "All Saints"
+      },
+      "album": {
+        "#text": "Saints & Sinners (25th Anniversary Edition)"
+      },
+      "date": {
+        "uts": "1793177782",
+        "#text": "Wed, 28 Oct 2026 08:56:22 GMT"
+      }
+    },
+    {
+      "name": "Inner Smile",
+      "artist": {
+        "#text": "Texas"
+      },
+      "album": {
+        "#text": "The Greatest Hits"
+      },
+      "date": {
+        "uts": "1793178051",
+        "#text": "Wed, 28 Oct 2026 09:00:51 GMT"
+      }
+    },
+    {
+      "name": "Hot Blooded",
+      "artist": {
+        "#text": "New Constellations"
+      },
+      "album": {
+        "#text": "It Comes in Waves"
+      },
+      "date": {
+        "uts": "1793178282",
+        "#text": "Wed, 28 Oct 2026 09:04:42 GMT"
+      }
+    },
+    {
+      "name": "Strong",
+      "artist": {
+        "#text": "London Grammar"
+      },
+      "album": {
+        "#text": "If You Wait"
+      },
+      "date": {
+        "uts": "1793178570",
+        "#text": "Wed, 28 Oct 2026 09:09:30 GMT"
+      }
+    },
+    {
+      "name": "Cowboy Gangster Politician",
+      "artist": {
+        "#text": "Goldie Boutilier"
+      },
+      "album": {
+        "#text": "Cowboy Gangster Politician"
+      },
+      "date": {
+        "uts": "1793178846",
+        "#text": "Wed, 28 Oct 2026 09:14:06 GMT"
+      }
+    },
+    {
+      "name": "Praise You",
+      "artist": {
+        "#text": "Fatboy Slim"
+      },
+      "album": {
+        "#text": "You've Come A Long Way Baby"
+      },
+      "date": {
+        "uts": "1793179079",
+        "#text": "Wed, 28 Oct 2026 09:17:59 GMT"
+      }
+    },
+    {
+      "name": "Wildfires",
+      "artist": {
+        "#text": "Sault"
+      },
+      "album": {
+        "#text": "Untitled (Black Is)"
+      },
+      "date": {
+        "uts": "1793179403",
+        "#text": "Wed, 28 Oct 2026 09:23:23 GMT"
+      }
     }
   ],
-  "generated": "2026-10-27T23:36:39.951Z"
+  "generated": "2026-10-28T13:52:47.749Z"
 }
