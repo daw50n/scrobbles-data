@@ -1468,7 +1468,124 @@
         "uts": "1793230900",
         "#text": "Wed, 28 Oct 2026 23:41:40 GMT"
       }
+    },
+    {
+      "name": "Visitor",
+      "artist": {
+        "#text": "Of Monsters and Men"
+      },
+      "album": {
+        "#text": "Visitor"
+      },
+      "date": {
+        "uts": "1793231134",
+        "#text": "Wed, 28 Oct 2026 23:45:34 GMT"
+      }
+    },
+    {
+      "name": "i went back to ibiza",
+      "artist": {
+        "#text": "Mike Posner"
+      },
+      "album": {
+        "#text": "I Went Back To Ibiza"
+      },
+      "date": {
+        "uts": "1793231328",
+        "#text": "Wed, 28 Oct 2026 23:48:48 GMT"
+      }
+    },
+    {
+      "name": "Take Me Back - Robin Schulz Remix",
+      "artist": {
+        "#text": "Kygo"
+      },
+      "album": {
+        "#text": "Take Me Back (Robin Schulz Remix)"
+      },
+      "date": {
+        "uts": "1793231550",
+        "#text": "Wed, 28 Oct 2026 23:52:30 GMT"
+      }
+    },
+    {
+      "name": "Test My Luck",
+      "artist": {
+        "#text": "Purple Disco Machine"
+      },
+      "album": {
+        "#text": "Test My Luck"
+      },
+      "date": {
+        "uts": "1793231697",
+        "#text": "Wed, 28 Oct 2026 23:54:57 GMT"
+      }
+    },
+    {
+      "name": "Dancing On My Own - From “Teen Spirit” Soundtrack",
+      "artist": {
+        "#text": "Elle Fanning"
+      },
+      "album": {
+        "#text": "Teen Spirit (Original Motion Picture Soundtrack)"
+      },
+      "date": {
+        "uts": "1793231901",
+        "#text": "Wed, 28 Oct 2026 23:58:21 GMT"
+      }
+    },
+    {
+      "name": "False Dichotomy",
+      "artist": {
+        "#text": "Metric"
+      },
+      "album": {
+        "#text": "Formentera"
+      },
+      "date": {
+        "uts": "1793232104",
+        "#text": "Thu, 29 Oct 2026 00:01:44 GMT"
+      }
+    },
+    {
+      "name": "I'm with You",
+      "artist": {
+        "#text": "Avril Lavigne"
+      },
+      "album": {
+        "#text": "Let Go"
+      },
+      "date": {
+        "uts": "1793232324",
+        "#text": "Thu, 29 Oct 2026 00:05:24 GMT"
+      }
+    },
+    {
+      "name": "Getting Away With It (All Messed Up)",
+      "artist": {
+        "#text": "James"
+      },
+      "album": {
+        "#text": "Pleased To Meet You"
+      },
+      "date": {
+        "uts": "1793281933",
+        "#text": "Thu, 29 Oct 2026 13:52:13 GMT"
+      }
+    },
+    {
+      "name": "Mad World",
+      "artist": {
+        "#text": "Oh Wonder"
+      },
+      "album": {
+        "#text": "Mad World"
+      },
+      "date": {
+        "uts": "1793282195",
+        "#text": "Thu, 29 Oct 2026 13:56:35 GMT"
+      }
     }
   ],
-  "generated": "2026-10-28T23:55:19.361Z"
+  "generated": "2026-10-29T13:58:45.311Z"
 }
