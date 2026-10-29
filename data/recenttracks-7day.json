@@ -1585,7 +1585,384 @@
         "uts": "1793282195",
         "#text": "Thu, 29 Oct 2026 13:56:35 GMT"
       }
+    },
+    {
+      "name": "Astral Projection",
+      "artist": {
+        "#text": "Yumi Zouma"
+      },
+      "album": {
+        "#text": "Present Tense"
+      },
+      "date": {
+        "uts": "1793282371",
+        "#text": "Thu, 29 Oct 2026 13:59:31 GMT"
+      }
+    },
+    {
+      "name": "Overthinker",
+      "artist": {
+        "#text": "CHVRCHES"
+      },
+      "album": {
+        "#text": "Overthinker"
+      },
+      "date": {
+        "uts": "1793282569",
+        "#text": "Thu, 29 Oct 2026 14:02:49 GMT"
+      }
+    },
+    {
+      "name": "Roses",
+      "artist": {
+        "#text": "CHVRCHES"
+      },
+      "album": {
+        "#text": "Overthinker"
+      },
+      "date": {
+        "uts": "1793282789",
+        "#text": "Thu, 29 Oct 2026 14:06:29 GMT"
+      }
+    },
+    {
+      "name": "Overthinker",
+      "artist": {
+        "#text": "CHVRCHES"
+      },
+      "album": {
+        "#text": "Overthinker"
+      },
+      "date": {
+        "uts": "1793282998",
+        "#text": "Thu, 29 Oct 2026 14:09:58 GMT"
+      }
+    },
+    {
+      "name": "COME GET YOUR GIRL",
+      "artist": {
+        "#text": "Lights"
+      },
+      "album": {
+        "#text": "A6EXTENDED"
+      },
+      "date": {
+        "uts": "1793283262",
+        "#text": "Thu, 29 Oct 2026 14:14:22 GMT"
+      }
+    },
+    {
+      "name": "Over",
+      "artist": {
+        "#text": "CHVRCHES"
+      },
+      "album": {
+        "#text": "Over"
+      },
+      "date": {
+        "uts": "1793283466",
+        "#text": "Thu, 29 Oct 2026 14:17:46 GMT"
+      }
+    },
+    {
+      "name": "Soaked",
+      "artist": {
+        "#text": "LÉON"
+      },
+      "album": {
+        "#text": "Circles"
+      },
+      "date": {
+        "uts": "1793283673",
+        "#text": "Thu, 29 Oct 2026 14:21:13 GMT"
+      }
+    },
+    {
+      "name": "Obsession (from the Netflix Series \"Nobody Wants This\" Season 3)",
+      "artist": {
+        "#text": "Mimi Webb"
+      },
+      "album": {
+        "#text": "Obsession (from the Netflix Series \"Nobody Wants This\" Season 3)"
+      },
+      "date": {
+        "uts": "1793283878",
+        "#text": "Thu, 29 Oct 2026 14:24:38 GMT"
+      }
+    },
+    {
+      "name": "Scarlett",
+      "artist": {
+        "#text": "Holly Humberstone"
+      },
+      "album": {
+        "#text": "Can You Afford To Lose Me?"
+      },
+      "date": {
+        "uts": "1793284014",
+        "#text": "Thu, 29 Oct 2026 14:26:54 GMT"
+      }
+    },
+    {
+      "name": "In Camera",
+      "artist": {
+        "#text": "Yumi Zouma"
+      },
+      "album": {
+        "#text": "EP III"
+      },
+      "date": {
+        "uts": "1793284216",
+        "#text": "Thu, 29 Oct 2026 14:30:16 GMT"
+      }
+    },
+    {
+      "name": "REDLIGHTS",
+      "artist": {
+        "#text": "Miley Cyrus"
+      },
+      "album": {
+        "#text": "Bass Persuades"
+      },
+      "date": {
+        "uts": "1793284400",
+        "#text": "Thu, 29 Oct 2026 14:33:20 GMT"
+      }
+    },
+    {
+      "name": "Leave a Trace",
+      "artist": {
+        "#text": "CHVRCHES"
+      },
+      "album": {
+        "#text": "Every Open Eye"
+      },
+      "date": {
+        "uts": "1793284754",
+        "#text": "Thu, 29 Oct 2026 14:39:14 GMT"
+      }
+    },
+    {
+      "name": "Circadian Rhythm (Last Dance)",
+      "artist": {
+        "#text": "Silversun Pickups"
+      },
+      "album": {
+        "#text": "Better Nature"
+      },
+      "date": {
+        "uts": "1793284963",
+        "#text": "Thu, 29 Oct 2026 14:42:43 GMT"
+      }
+    },
+    {
+      "name": "Another Day In Paradise",
+      "artist": {
+        "#text": "Joyner"
+      },
+      "album": {
+        "#text": "Another Day In Paradise"
+      },
+      "date": {
+        "uts": "1793285181",
+        "#text": "Thu, 29 Oct 2026 14:46:21 GMT"
+      }
+    },
+    {
+      "name": "I Want To Know What Love Is",
+      "artist": {
+        "#text": "Amason"
+      },
+      "album": {
+        "#text": "California Airport Love"
+      },
+      "date": {
+        "uts": "1793285390",
+        "#text": "Thu, 29 Oct 2026 14:49:50 GMT"
+      }
+    },
+    {
+      "name": "Róróró",
+      "artist": {
+        "#text": "Of Monsters and Men"
+      },
+      "album": {
+        "#text": "FEVER DREAM"
+      },
+      "date": {
+        "uts": "1793285589",
+        "#text": "Thu, 29 Oct 2026 14:53:09 GMT"
+      }
+    },
+    {
+      "name": "Look At My Life",
+      "artist": {
+        "#text": "Gracie Abrams"
+      },
+      "album": {
+        "#text": "Daughter from Hell"
+      },
+      "date": {
+        "uts": "1793285705",
+        "#text": "Thu, 29 Oct 2026 14:55:05 GMT"
+      }
+    },
+    {
+      "name": "Supercut",
+      "artist": {
+        "#text": "Lorde"
+      },
+      "album": {
+        "#text": "Melodrama"
+      },
+      "date": {
+        "uts": "1793285896",
+        "#text": "Thu, 29 Oct 2026 14:58:16 GMT"
+      }
+    },
+    {
+      "name": "stupid song",
+      "artist": {
+        "#text": "Olivia Rodrigo"
+      },
+      "album": {
+        "#text": "you seem pretty sad for a girl so in love"
+      },
+      "date": {
+        "uts": "1793286174",
+        "#text": "Thu, 29 Oct 2026 15:02:54 GMT"
+      }
+    },
+    {
+      "name": "Northern Attitude",
+      "artist": {
+        "#text": "Noah Kahan"
+      },
+      "album": {
+        "#text": "Stick Season"
+      },
+      "date": {
+        "uts": "1793286384",
+        "#text": "Thu, 29 Oct 2026 15:06:24 GMT"
+      }
+    },
+    {
+      "name": "That’s So True",
+      "artist": {
+        "#text": "Gracie Abrams"
+      },
+      "album": {
+        "#text": "The Secret of Us (Deluxe)"
+      },
+      "date": {
+        "uts": "1793286652",
+        "#text": "Thu, 29 Oct 2026 15:10:52 GMT"
+      }
+    },
+    {
+      "name": "Call Me When You Break Up (with Gracie Abrams)",
+      "artist": {
+        "#text": "Selena Gomez"
+      },
+      "album": {
+        "#text": "I Said I Love You First"
+      },
+      "date": {
+        "uts": "1793286819",
+        "#text": "Thu, 29 Oct 2026 15:13:39 GMT"
+      }
+    },
+    {
+      "name": "Minibar",
+      "artist": {
+        "#text": "Gracie Abrams"
+      },
+      "album": {
+        "#text": "Daughter from Hell"
+      },
+      "date": {
+        "uts": "1793286946",
+        "#text": "Thu, 29 Oct 2026 15:15:46 GMT"
+      }
+    },
+    {
+      "name": "Edge of the Earth",
+      "artist": {
+        "#text": "The Beaches"
+      },
+      "album": {
+        "#text": "Blame My Ex"
+      },
+      "date": {
+        "uts": "1793287067",
+        "#text": "Thu, 29 Oct 2026 15:17:47 GMT"
+      }
+    },
+    {
+      "name": "I Told You Things",
+      "artist": {
+        "#text": "Gracie Abrams"
+      },
+      "album": {
+        "#text": "The Secret of Us (Deluxe)"
+      },
+      "date": {
+        "uts": "1793287228",
+        "#text": "Thu, 29 Oct 2026 15:20:28 GMT"
+      }
+    },
+    {
+      "name": "Vodka Cranberry",
+      "artist": {
+        "#text": "Conan Gray"
+      },
+      "album": {
+        "#text": "Wishbone"
+      },
+      "date": {
+        "uts": "1793287449",
+        "#text": "Thu, 29 Oct 2026 15:24:09 GMT"
+      }
+    },
+    {
+      "name": "I Love You, I'm Sorry",
+      "artist": {
+        "#text": "Gracie Abrams"
+      },
+      "album": {
+        "#text": "The Secret of Us"
+      },
+      "date": {
+        "uts": "1793287696",
+        "#text": "Thu, 29 Oct 2026 15:28:16 GMT"
+      }
+    },
+    {
+      "name": "Light On",
+      "artist": {
+        "#text": "Maggie Rogers"
+      },
+      "album": {
+        "#text": "Heard It in a Past Life"
+      },
+      "date": {
+        "uts": "1793290447",
+        "#text": "Thu, 29 Oct 2026 16:14:07 GMT"
+      }
+    },
+    {
+      "name": "Hit the Wall",
+      "artist": {
+        "#text": "Gracie Abrams"
+      },
+      "album": {
+        "#text": "Daughter from Hell"
+      },
+      "date": {
+        "uts": "1793290681",
+        "#text": "Thu, 29 Oct 2026 16:18:01 GMT"
+      }
     }
   ],
-  "generated": "2026-10-29T13:58:45.311Z"
+  "generated": "2026-10-29T19:31:28.203Z"
 }
