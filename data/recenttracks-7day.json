@@ -1962,7 +1962,176 @@
         "uts": "1793290681",
         "#text": "Thu, 29 Oct 2026 16:18:01 GMT"
       }
+    },
+    {
+      "name": "1996",
+      "artist": {
+        "#text": "The Wombats"
+      },
+      "album": {
+        "#text": "The Wombats Proudly Present... This Modern Glitch (10th Anniversary Edition)"
+      },
+      "date": {
+        "uts": "1793313910",
+        "#text": "Thu, 29 Oct 2026 22:45:10 GMT"
+      }
+    },
+    {
+      "name": "I Know a Place",
+      "artist": {
+        "#text": "MUNA"
+      },
+      "album": {
+        "#text": "About U"
+      },
+      "date": {
+        "uts": "1793314149",
+        "#text": "Thu, 29 Oct 2026 22:49:09 GMT"
+      }
+    },
+    {
+      "name": "Tears For Fun",
+      "artist": {
+        "#text": "Griff"
+      },
+      "album": {
+        "#text": "Vertigo"
+      },
+      "date": {
+        "uts": "1793314407",
+        "#text": "Thu, 29 Oct 2026 22:53:27 GMT"
+      }
+    },
+    {
+      "name": "Romanticize the Dive (from the Netflix Series \"Nobody Wants This\" Season 3)",
+      "artist": {
+        "#text": "Metric"
+      },
+      "album": {
+        "#text": "Romanticize the Dive (from the Netflix Series \"Nobody Wants This\" Season 3)"
+      },
+      "date": {
+        "uts": "1793314608",
+        "#text": "Thu, 29 Oct 2026 22:56:48 GMT"
+      }
+    },
+    {
+      "name": "Hypothetical",
+      "artist": {
+        "#text": "The Beaches"
+      },
+      "album": {
+        "#text": "No Hard Feelings (Deluxe)"
+      },
+      "date": {
+        "uts": "1793314822",
+        "#text": "Thu, 29 Oct 2026 23:00:22 GMT"
+      }
+    },
+    {
+      "name": "Set It Free",
+      "artist": {
+        "#text": "Now, Now"
+      },
+      "album": {
+        "#text": "Saved"
+      },
+      "date": {
+        "uts": "1793314999",
+        "#text": "Thu, 29 Oct 2026 23:03:19 GMT"
+      }
+    },
+    {
+      "name": "People Watching",
+      "artist": {
+        "#text": "Sam Fender"
+      },
+      "album": {
+        "#text": "People Watching"
+      },
+      "date": {
+        "uts": "1793315200",
+        "#text": "Thu, 29 Oct 2026 23:06:40 GMT"
+      }
+    },
+    {
+      "name": "Stitches",
+      "artist": {
+        "#text": "Mr Little Jeans"
+      },
+      "album": {
+        "#text": "Stitches"
+      },
+      "date": {
+        "uts": "1793315491",
+        "#text": "Thu, 29 Oct 2026 23:11:31 GMT"
+      }
+    },
+    {
+      "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "artist": {
+        "#text": "Noah Kahan"
+      },
+      "album": {
+        "#text": "Draw You Out"
+      },
+      "date": {
+        "uts": "1793315736",
+        "#text": "Thu, 29 Oct 2026 23:15:36 GMT"
+      }
+    },
+    {
+      "name": "Intro",
+      "artist": {
+        "#text": "The xx"
+      },
+      "album": {
+        "#text": "xx"
+      },
+      "date": {
+        "uts": "1793315978",
+        "#text": "Thu, 29 Oct 2026 23:19:38 GMT"
+      }
+    },
+    {
+      "name": "Last Call",
+      "artist": {
+        "#text": "Lyrah"
+      },
+      "album": {
+        "#text": "Last Call"
+      },
+      "date": {
+        "uts": "1793316100",
+        "#text": "Thu, 29 Oct 2026 23:21:40 GMT"
+      }
+    },
+    {
+      "name": "Dirty Paws",
+      "artist": {
+        "#text": "Of Monsters and Men"
+      },
+      "album": {
+        "#text": "My Head Is an Animal"
+      },
+      "date": {
+        "uts": "1793316258",
+        "#text": "Thu, 29 Oct 2026 23:24:18 GMT"
+      }
+    },
+    {
+      "name": "Fade Into You",
+      "artist": {
+        "#text": "Mazzy Star"
+      },
+      "album": {
+        "#text": "So Tonight That I Might See"
+      },
+      "date": {
+        "uts": "1793316510",
+        "#text": "Thu, 29 Oct 2026 23:28:30 GMT"
+      }
     }
   ],
-  "generated": "2026-10-29T19:31:28.203Z"
+  "generated": "2026-10-29T23:49:43.955Z"
 }
