@@ -1,6 +1,8 @@
-// fetch-scrobbles.js — runs in GitHub Actions, writes JSON data files
+// fetch-scrobbles.js — runs in GitHub Actions or as a VPS cron job
 // Usage: node fetch-scrobbles.js
 // Env vars: LFM_USER, LFM_API_KEY
+//           OUT_DIR (optional) — override output directory, e.g. /var/www/scrobbles/data
+//           On VPS: OUT_DIR=/var/www/scrobbles/data LFM_USER=xxx LFM_API_KEY=xxx node fetch-scrobbles.js
 
 const fs   = require('fs');
 const path = require('path');
@@ -9,7 +11,7 @@ const https = require('https');
 const USER    = process.env.LFM_USER;
 const API_KEY = process.env.LFM_API_KEY;
 const BASE    = 'https://ws.audioscrobbler.com/2.0/';
-const OUT_DIR = path.join(__dirname, 'data');
+const OUT_DIR = process.env.OUT_DIR || path.join(__dirname, 'data');
 
 if (!USER || !API_KEY) {
   console.error('Missing LFM_USER or LFM_API_KEY');
@@ -67,7 +69,7 @@ async function fetchScrobblesSince(fromTs) {
     const tracks = res?.recenttracks?.track ?? [];
     const trackArr = Array.isArray(tracks) ? tracks : [tracks];
     const filtered = trackArr
-      .filter(t => !t['@attr']?.nowplaying && t.date?.uts)
+      .filter(t => !t['@attr']?.nowplaying && t.date?.uts && !t.name?.startsWith('Up next'))
       .map(t => ({
         ts:     parseInt(t.date.uts, 10),
         track:  t.name,
