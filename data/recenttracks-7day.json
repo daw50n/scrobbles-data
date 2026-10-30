@@ -1,32 +1,6 @@
 {
   "tracks": [
     {
-      "name": "Bizarre Love Triangle",
-      "artist": {
-        "#text": "Frente!"
-      },
-      "album": {
-        "#text": "Marvin The Album (30th Anniversary Edition)"
-      },
-      "date": {
-        "uts": "1792780999",
-        "#text": "Fri, 23 Oct 2026 18:43:19 GMT"
-      }
-    },
-    {
-      "name": "The Great Divide",
-      "artist": {
-        "#text": "Noah Kahan"
-      },
-      "album": {
-        "#text": "The Great Divide"
-      },
-      "date": {
-        "uts": "1792781119",
-        "#text": "Fri, 23 Oct 2026 18:45:19 GMT"
-      }
-    },
-    {
       "name": "i went back to ibiza",
       "artist": {
         "#text": "Mike Posner"
@@ -2170,7 +2144,267 @@
         "uts": "1793368246",
         "#text": "Fri, 30 Oct 2026 13:50:46 GMT"
       }
+    },
+    {
+      "name": "Strong",
+      "artist": {
+        "#text": "London Grammar"
+      },
+      "album": {
+        "#text": "If You Wait"
+      },
+      "date": {
+        "uts": "1793368401",
+        "#text": "Fri, 30 Oct 2026 13:53:21 GMT"
+      }
+    },
+    {
+      "name": "Look At My Life",
+      "artist": {
+        "#text": "Gracie Abrams"
+      },
+      "album": {
+        "#text": "Daughter from Hell"
+      },
+      "date": {
+        "uts": "1793368653",
+        "#text": "Fri, 30 Oct 2026 13:57:33 GMT"
+      }
+    },
+    {
+      "name": "Look At My Life",
+      "artist": {
+        "#text": "Gracie Abrams"
+      },
+      "album": {
+        "#text": "Daughter from Hell"
+      },
+      "date": {
+        "uts": "1793369637",
+        "#text": "Fri, 30 Oct 2026 14:13:57 GMT"
+      }
+    },
+    {
+      "name": "stupid song",
+      "artist": {
+        "#text": "Olivia Rodrigo"
+      },
+      "album": {
+        "#text": "you seem pretty sad for a girl so in love"
+      },
+      "date": {
+        "uts": "1793369828",
+        "#text": "Fri, 30 Oct 2026 14:17:08 GMT"
+      }
+    },
+    {
+      "name": "Supercut",
+      "artist": {
+        "#text": "Lorde"
+      },
+      "album": {
+        "#text": "Melodrama"
+      },
+      "date": {
+        "uts": "1793370038",
+        "#text": "Fri, 30 Oct 2026 14:20:38 GMT"
+      }
+    },
+    {
+      "name": "Willing and Able",
+      "artist": {
+        "#text": "Noah Kahan"
+      },
+      "album": {
+        "#text": "The Great Divide"
+      },
+      "date": {
+        "uts": "1793370317",
+        "#text": "Fri, 30 Oct 2026 14:25:17 GMT"
+      }
+    },
+    {
+      "name": "Close to You",
+      "artist": {
+        "#text": "Gracie Abrams"
+      },
+      "album": {
+        "#text": "The Secret of Us"
+      },
+      "date": {
+        "uts": "1793370838",
+        "#text": "Fri, 30 Oct 2026 14:33:58 GMT"
+      }
+    },
+    {
+      "name": "Keeping score",
+      "artist": {
+        "#text": "Sasha Alex Sloan"
+      },
+      "album": {
+        "#text": "And The Crowd Goes Mild"
+      },
+      "date": {
+        "uts": "1793371064",
+        "#text": "Fri, 30 Oct 2026 14:37:44 GMT"
+      }
+    },
+    {
+      "name": "Good Reason",
+      "artist": {
+        "#text": "Gracie Abrams"
+      },
+      "album": {
+        "#text": "Daughter from Hell"
+      },
+      "date": {
+        "uts": "1793371254",
+        "#text": "Fri, 30 Oct 2026 14:40:54 GMT"
+      }
+    },
+    {
+      "name": "Mess It Up",
+      "artist": {
+        "#text": "Gracie Abrams"
+      },
+      "album": {
+        "#text": "Mess It Up"
+      },
+      "date": {
+        "uts": "1793371532",
+        "#text": "Fri, 30 Oct 2026 14:45:32 GMT"
+      }
+    },
+    {
+      "name": "Die Happy",
+      "artist": {
+        "#text": "Holly Humberstone"
+      },
+      "album": {
+        "#text": "Cruel World"
+      },
+      "date": {
+        "uts": "1793375473",
+        "#text": "Fri, 30 Oct 2026 15:51:13 GMT"
+      }
+    },
+    {
+      "name": "Risk",
+      "artist": {
+        "#text": "Gracie Abrams"
+      },
+      "album": {
+        "#text": "The Secret of Us"
+      },
+      "date": {
+        "uts": "1793375703",
+        "#text": "Fri, 30 Oct 2026 15:55:03 GMT"
+      }
+    },
+    {
+      "name": "Edge of the Earth",
+      "artist": {
+        "#text": "The Beaches"
+      },
+      "album": {
+        "#text": "Blame My Ex"
+      },
+      "date": {
+        "uts": "1793375895",
+        "#text": "Fri, 30 Oct 2026 15:58:15 GMT"
+      }
+    },
+    {
+      "name": "I Love You, I'm Sorry",
+      "artist": {
+        "#text": "Gracie Abrams"
+      },
+      "album": {
+        "#text": "The Secret of Us"
+      },
+      "date": {
+        "uts": "1793376056",
+        "#text": "Fri, 30 Oct 2026 16:00:56 GMT"
+      }
+    },
+    {
+      "name": "Vodka Cranberry",
+      "artist": {
+        "#text": "Conan Gray"
+      },
+      "album": {
+        "#text": "Wishbone"
+      },
+      "date": {
+        "uts": "1793376214",
+        "#text": "Fri, 30 Oct 2026 16:03:34 GMT"
+      }
+    },
+    {
+      "name": "Feels Like",
+      "artist": {
+        "#text": "Gracie Abrams"
+      },
+      "album": {
+        "#text": "This Is What It Feels Like"
+      },
+      "date": {
+        "uts": "1793376360",
+        "#text": "Fri, 30 Oct 2026 16:06:00 GMT"
+      }
+    },
+    {
+      "name": "Hand in My Pocket",
+      "artist": {
+        "#text": "Alanis Morissette"
+      },
+      "album": {
+        "#text": "Jagged Little Pill"
+      },
+      "date": {
+        "uts": "1793376478",
+        "#text": "Fri, 30 Oct 2026 16:07:58 GMT"
+      }
+    },
+    {
+      "name": "Laid",
+      "artist": {
+        "#text": "James"
+      },
+      "album": {
+        "#text": "Laid"
+      },
+      "date": {
+        "uts": "1793376700",
+        "#text": "Fri, 30 Oct 2026 16:11:40 GMT"
+      }
+    },
+    {
+      "name": "Black and White Town",
+      "artist": {
+        "#text": "Doves"
+      },
+      "album": {
+        "#text": "Some Cities"
+      },
+      "date": {
+        "uts": "1793376857",
+        "#text": "Fri, 30 Oct 2026 16:14:17 GMT"
+      }
+    },
+    {
+      "name": "Nightswimming",
+      "artist": {
+        "#text": "R.E.M."
+      },
+      "album": {
+        "#text": "Automatic for the People"
+      },
+      "date": {
+        "uts": "1793377113",
+        "#text": "Fri, 30 Oct 2026 16:18:33 GMT"
+      }
     }
   ],
-  "generated": "2026-10-30T13:53:37.753Z"
+  "generated": "2026-10-30T19:01:50.448Z"
 }
