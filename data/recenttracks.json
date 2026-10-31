@@ -651,42 +651,6 @@
       },
       {
         "artist": {
-          "mbid": "",
-          "#text": "DJ X"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/bf9cc9e3ca2d13841b3485389928fac6.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/bf9cc9e3ca2d13841b3485389928fac6.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/bf9cc9e3ca2d13841b3485389928fac6.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/bf9cc9e3ca2d13841b3485389928fac6.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "DJ"
-        },
-        "name": "Up next",
-        "url": "https://www.last.fm/music/DJ+X/_/Up+next",
-        "date": {
-          "uts": "1793368845",
-          "#text": "30 Oct 2026, 14:00"
-        }
-      },
-      {
-        "artist": {
           "mbid": "f7441bc7-d7de-4813-a2fc-31a4033d396d",
           "#text": "Gracie Abrams"
         },
@@ -7199,6 +7163,42 @@
         "date": {
           "uts": "1792431318",
           "#text": "19 Oct 2026, 17:35"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "91a81925-92f9-4fc9-b897-93cf01226282",
+          "#text": "The Chainsmokers"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/c73220be85bc61c9236bf1a431c801c6.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/c73220be85bc61c9236bf1a431c801c6.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/c73220be85bc61c9236bf1a431c801c6.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c73220be85bc61c9236bf1a431c801c6.jpg"
+          }
+        ],
+        "mbid": "11001f6b-d241-4a64-b250-e9ca95c7e197",
+        "album": {
+          "mbid": "21e16e5c-0c55-4ade-947c-021448e0dbed",
+          "#text": "World War Joy"
+        },
+        "name": "Push My Luck",
+        "url": "https://www.last.fm/music/The+Chainsmokers/_/Push+My+Luck",
+        "date": {
+          "uts": "1792431142",
+          "#text": "19 Oct 2026, 17:32"
         }
       }
     ],
