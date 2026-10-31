@@ -1028,19 +1028,6 @@
       }
     },
     {
-      "name": "Up next",
-      "artist": {
-        "#text": "DJ X"
-      },
-      "album": {
-        "#text": "DJ"
-      },
-      "date": {
-        "uts": "1793210135",
-        "#text": "Wed, 28 Oct 2026 17:55:35 GMT"
-      }
-    },
-    {
       "name": "Shy Girl",
       "artist": {
         "#text": "Haute & Freddy"
@@ -1106,19 +1093,6 @@
       }
     },
     {
-      "name": "Up next",
-      "artist": {
-        "#text": "DJ X"
-      },
-      "album": {
-        "#text": "DJ"
-      },
-      "date": {
-        "uts": "1793211175",
-        "#text": "Wed, 28 Oct 2026 18:12:55 GMT"
-      }
-    },
-    {
       "name": "Sue me",
       "artist": {
         "#text": "Audrey Hobert"
@@ -1142,19 +1116,6 @@
       "date": {
         "uts": "1793211431",
         "#text": "Wed, 28 Oct 2026 18:17:11 GMT"
-      }
-    },
-    {
-      "name": "Up next",
-      "artist": {
-        "#text": "DJ X"
-      },
-      "album": {
-        "#text": "DJ"
-      },
-      "date": {
-        "uts": "1793211607",
-        "#text": "Wed, 28 Oct 2026 18:20:07 GMT"
       }
     },
     {
@@ -1220,19 +1181,6 @@
       "date": {
         "uts": "1793213843",
         "#text": "Wed, 28 Oct 2026 18:57:23 GMT"
-      }
-    },
-    {
-      "name": "Up next",
-      "artist": {
-        "#text": "DJ X"
-      },
-      "album": {
-        "#text": "DJ"
-      },
-      "date": {
-        "uts": "1793214085",
-        "#text": "Wed, 28 Oct 2026 19:01:25 GMT"
       }
     },
     {
@@ -2404,7 +2352,46 @@
         "uts": "1793377113",
         "#text": "Fri, 30 Oct 2026 16:18:33 GMT"
       }
+    },
+    {
+      "name": "Inner Smile",
+      "artist": {
+        "#text": "Texas"
+      },
+      "album": {
+        "#text": "The Greatest Hits"
+      },
+      "date": {
+        "uts": "1793466597",
+        "#text": "Sat, 31 Oct 2026 17:09:57 GMT"
+      }
+    },
+    {
+      "name": "Rein Me In (with Olivia Dean)",
+      "artist": {
+        "#text": "Sam Fender"
+      },
+      "album": {
+        "#text": "People Watching (Deluxe Edition)"
+      },
+      "date": {
+        "uts": "1793466801",
+        "#text": "Sat, 31 Oct 2026 17:13:21 GMT"
+      }
+    },
+    {
+      "name": "Good Luck, Babe!",
+      "artist": {
+        "#text": "Chappell Roan"
+      },
+      "album": {
+        "#text": "Good Luck, Babe!"
+      },
+      "date": {
+        "uts": "1793467081",
+        "#text": "Sat, 31 Oct 2026 17:18:01 GMT"
+      }
     }
   ],
-  "generated": "2026-10-31T16:50:32.159Z"
+  "generated": "2026-10-31T17:19:55.845Z"
 }
