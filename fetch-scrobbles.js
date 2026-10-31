@@ -169,7 +169,7 @@ async function main() {
     const res = await lfm({ method: 'user.getrecenttracks', limit: 200, page: 1 });
     const tracks = res?.recenttracks?.track ?? [];
     recentFeed = (Array.isArray(tracks) ? tracks : [tracks])
-      .filter(t => !t['@attr']?.nowplaying);
+      .filter(t => !t['@attr']?.nowplaying && !t.name?.startsWith('Up next'));
   } catch (e) {
     console.warn('Could not fetch recenttracks from API, falling back to history:', e.message);
     recentFeed = deduped.slice(-200).reverse().map(s => ({
