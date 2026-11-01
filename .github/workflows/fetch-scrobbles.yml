@@ -2,7 +2,7 @@ name: Fetch Scrobbles
 
 on:
   schedule:
-    - cron: '0/15 7-23 * * *'   # every 15 mins, 7am–11pm UTC
+    - cron: '*/15 7-23 * * *'   # every 15 mins, 7am–11pm UTC
   workflow_dispatch:
 
 jobs:
