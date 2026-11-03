@@ -1918,19 +1918,19 @@
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/29e567e3ec017d384460792c5c43ebed.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/1b217359e775a8b6a7bc443abe5b08c2.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/29e567e3ec017d384460792c5c43ebed.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/1b217359e775a8b6a7bc443abe5b08c2.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/29e567e3ec017d384460792c5c43ebed.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/1b217359e775a8b6a7bc443abe5b08c2.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/29e567e3ec017d384460792c5c43ebed.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1b217359e775a8b6a7bc443abe5b08c2.jpg"
           }
         ],
         "mbid": "617cf5f0-3553-3a54-8e34-d9878468e67a",
@@ -2365,7 +2365,7 @@
             "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/0d6e35eaf31f4e1db42b2ea247d90bb7.png"
           }
         ],
-        "mbid": "d8940db7-0634-4d75-b59a-0d94c01b88a1",
+        "mbid": "",
         "album": {
           "mbid": "016cf05e-0233-4158-b8f8-3e6e290850bd",
           "#text": "Jagged Little Pill"
@@ -2653,7 +2653,7 @@
             "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c3d866abceefa6c69099bc1fb25161c0.jpg"
           }
         ],
-        "mbid": "",
+        "mbid": "af28eeaa-a508-47d4-b87f-5fe36354a6cc",
         "album": {
           "mbid": "",
           "#text": "Daughter from Hell"
@@ -2869,7 +2869,7 @@
             "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c3d866abceefa6c69099bc1fb25161c0.jpg"
           }
         ],
-        "mbid": "22a5008b-f58f-4d43-a6fe-56e40ed636d4",
+        "mbid": "a66eb916-7af8-4175-bf37-12129e37a4a0",
         "album": {
           "mbid": "",
           "#text": "Daughter from Hell"
@@ -2905,7 +2905,7 @@
             "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c3d866abceefa6c69099bc1fb25161c0.jpg"
           }
         ],
-        "mbid": "22a5008b-f58f-4d43-a6fe-56e40ed636d4",
+        "mbid": "a66eb916-7af8-4175-bf37-12129e37a4a0",
         "album": {
           "mbid": "",
           "#text": "Daughter from Hell"
@@ -3769,7 +3769,7 @@
             "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c3d866abceefa6c69099bc1fb25161c0.jpg"
           }
         ],
-        "mbid": "",
+        "mbid": "5bb5d05e-2a0d-4b65-827e-1532fc6da904",
         "album": {
           "mbid": "",
           "#text": "Daughter from Hell"
@@ -3985,7 +3985,7 @@
             "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c3d866abceefa6c69099bc1fb25161c0.jpg"
           }
         ],
-        "mbid": "22a5008b-f58f-4d43-a6fe-56e40ed636d4",
+        "mbid": "a66eb916-7af8-4175-bf37-12129e37a4a0",
         "album": {
           "mbid": "",
           "#text": "Daughter from Hell"
@@ -4455,7 +4455,7 @@
         ],
         "mbid": "53f66ad5-b4f9-4220-8488-9edc967b3c06",
         "album": {
-          "mbid": "",
+          "mbid": "db3fdcbc-04c6-4ef5-bec0-0ccbf3ac290d",
           "#text": "Overthinker"
         },
         "name": "Overthinker",
@@ -4491,7 +4491,7 @@
         ],
         "mbid": "3ab47cf9-fe43-42dc-8711-48bfa8a7163f",
         "album": {
-          "mbid": "",
+          "mbid": "db3fdcbc-04c6-4ef5-bec0-0ccbf3ac290d",
           "#text": "Overthinker"
         },
         "name": "Roses",
@@ -4527,7 +4527,7 @@
         ],
         "mbid": "53f66ad5-b4f9-4220-8488-9edc967b3c06",
         "album": {
-          "mbid": "",
+          "mbid": "db3fdcbc-04c6-4ef5-bec0-0ccbf3ac290d",
           "#text": "Overthinker"
         },
         "name": "Overthinker",
@@ -4633,7 +4633,7 @@
             "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d8c816ddf84140168ec6a79757ebcc8c.png"
           }
         ],
-        "mbid": "ce032b7e-9ef6-48ee-b547-54e8c864cc47",
+        "mbid": "95581481-21af-38a2-8104-e5ac0a8a82d3",
         "album": {
           "mbid": "343f5ab4-14cd-4229-a8ef-f54d1fa0c773",
           "#text": "Pleased To Meet You"
@@ -7153,7 +7153,7 @@
             "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/38903aa4cac9c9d2f05356d9441069cb.gif"
           }
         ],
-        "mbid": "06f2a8ae-fab8-4830-8721-6bbe3a03a594",
+        "mbid": "",
         "album": {
           "mbid": "28ddf022-0a8a-4ecd-bf18-d80af26c3aff",
           "#text": "Plastic Beach"
