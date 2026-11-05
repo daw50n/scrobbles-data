@@ -853,7 +853,7 @@
             "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/87138bbda83bd0ae8b4da2b6cab9b66a.jpg"
           }
         ],
-        "mbid": "a4689b34-d602-3180-abef-aab530a9381d",
+        "mbid": "",
         "album": {
           "mbid": "000b188f-549f-4c11-a5fb-024fbfdb7a13",
           "#text": "Everybody Else Is Doing It, So Why Can't We?"
@@ -4669,7 +4669,7 @@
             "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2afa9f89a4ba981d3c6876e2e1725f28.jpg"
           }
         ],
-        "mbid": "be8f0cad-8afc-418d-bff6-2f8efc165f09",
+        "mbid": "",
         "album": {
           "mbid": "002a0094-40b7-4403-99ab-f3b0daeffacd",
           "#text": "Let Go"
