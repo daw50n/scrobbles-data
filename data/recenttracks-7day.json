@@ -1,175 +1,6 @@
 {
   "tracks": [
     {
-      "name": "1996",
-      "artist": {
-        "#text": "The Wombats"
-      },
-      "album": {
-        "#text": "The Wombats Proudly Present... This Modern Glitch (10th Anniversary Edition)"
-      },
-      "date": {
-        "uts": "1793313910",
-        "#text": "Thu, 29 Oct 2026 22:45:10 GMT"
-      }
-    },
-    {
-      "name": "I Know a Place",
-      "artist": {
-        "#text": "MUNA"
-      },
-      "album": {
-        "#text": "About U"
-      },
-      "date": {
-        "uts": "1793314149",
-        "#text": "Thu, 29 Oct 2026 22:49:09 GMT"
-      }
-    },
-    {
-      "name": "Tears For Fun",
-      "artist": {
-        "#text": "Griff"
-      },
-      "album": {
-        "#text": "Vertigo"
-      },
-      "date": {
-        "uts": "1793314407",
-        "#text": "Thu, 29 Oct 2026 22:53:27 GMT"
-      }
-    },
-    {
-      "name": "Romanticize the Dive (from the Netflix Series \"Nobody Wants This\" Season 3)",
-      "artist": {
-        "#text": "Metric"
-      },
-      "album": {
-        "#text": "Romanticize the Dive (from the Netflix Series \"Nobody Wants This\" Season 3)"
-      },
-      "date": {
-        "uts": "1793314608",
-        "#text": "Thu, 29 Oct 2026 22:56:48 GMT"
-      }
-    },
-    {
-      "name": "Hypothetical",
-      "artist": {
-        "#text": "The Beaches"
-      },
-      "album": {
-        "#text": "No Hard Feelings (Deluxe)"
-      },
-      "date": {
-        "uts": "1793314822",
-        "#text": "Thu, 29 Oct 2026 23:00:22 GMT"
-      }
-    },
-    {
-      "name": "Set It Free",
-      "artist": {
-        "#text": "Now, Now"
-      },
-      "album": {
-        "#text": "Saved"
-      },
-      "date": {
-        "uts": "1793314999",
-        "#text": "Thu, 29 Oct 2026 23:03:19 GMT"
-      }
-    },
-    {
-      "name": "People Watching",
-      "artist": {
-        "#text": "Sam Fender"
-      },
-      "album": {
-        "#text": "People Watching"
-      },
-      "date": {
-        "uts": "1793315200",
-        "#text": "Thu, 29 Oct 2026 23:06:40 GMT"
-      }
-    },
-    {
-      "name": "Stitches",
-      "artist": {
-        "#text": "Mr Little Jeans"
-      },
-      "album": {
-        "#text": "Stitches"
-      },
-      "date": {
-        "uts": "1793315491",
-        "#text": "Thu, 29 Oct 2026 23:11:31 GMT"
-      }
-    },
-    {
-      "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
-      "artist": {
-        "#text": "Noah Kahan"
-      },
-      "album": {
-        "#text": "Draw You Out"
-      },
-      "date": {
-        "uts": "1793315736",
-        "#text": "Thu, 29 Oct 2026 23:15:36 GMT"
-      }
-    },
-    {
-      "name": "Intro",
-      "artist": {
-        "#text": "The xx"
-      },
-      "album": {
-        "#text": "xx"
-      },
-      "date": {
-        "uts": "1793315978",
-        "#text": "Thu, 29 Oct 2026 23:19:38 GMT"
-      }
-    },
-    {
-      "name": "Last Call",
-      "artist": {
-        "#text": "Lyrah"
-      },
-      "album": {
-        "#text": "Last Call"
-      },
-      "date": {
-        "uts": "1793316100",
-        "#text": "Thu, 29 Oct 2026 23:21:40 GMT"
-      }
-    },
-    {
-      "name": "Dirty Paws",
-      "artist": {
-        "#text": "Of Monsters and Men"
-      },
-      "album": {
-        "#text": "My Head Is an Animal"
-      },
-      "date": {
-        "uts": "1793316258",
-        "#text": "Thu, 29 Oct 2026 23:24:18 GMT"
-      }
-    },
-    {
-      "name": "Fade Into You",
-      "artist": {
-        "#text": "Mazzy Star"
-      },
-      "album": {
-        "#text": "So Tonight That I Might See"
-      },
-      "date": {
-        "uts": "1793316510",
-        "#text": "Thu, 29 Oct 2026 23:28:30 GMT"
-      }
-    },
-    {
       "name": "4 Seasons",
       "artist": {
         "#text": "Ellie Goulding"
@@ -1299,7 +1130,150 @@
         "uts": "1793914056",
         "#text": "Thu, 05 Nov 2026 21:27:36 GMT"
       }
+    },
+    {
+      "name": "Rein Me In (with Olivia Dean)",
+      "artist": {
+        "#text": "Sam Fender"
+      },
+      "album": {
+        "#text": "People Watching (Deluxe Edition)"
+      },
+      "date": {
+        "uts": "1793914311",
+        "#text": "Thu, 05 Nov 2026 21:31:51 GMT"
+      }
+    },
+    {
+      "name": "Open Your Eyes",
+      "artist": {
+        "#text": "School of Seven Bells"
+      },
+      "album": {
+        "#text": "SVIIB"
+      },
+      "date": {
+        "uts": "1793914589",
+        "#text": "Thu, 05 Nov 2026 21:36:29 GMT"
+      }
+    },
+    {
+      "name": "Touch Touch",
+      "artist": {
+        "#text": "Haute & Freddy"
+      },
+      "album": {
+        "#text": "Touch Touch"
+      },
+      "date": {
+        "uts": "1793914826",
+        "#text": "Thu, 05 Nov 2026 21:40:26 GMT"
+      }
+    },
+    {
+      "name": "How Not To Drown (feat. Robert Smith)",
+      "artist": {
+        "#text": "CHVRCHES"
+      },
+      "album": {
+        "#text": "Screen Violence"
+      },
+      "date": {
+        "uts": "1793915101",
+        "#text": "Thu, 05 Nov 2026 21:45:01 GMT"
+      }
+    },
+    {
+      "name": "All Comes Crashing",
+      "artist": {
+        "#text": "Metric"
+      },
+      "album": {
+        "#text": "Formentera"
+      },
+      "date": {
+        "uts": "1793915419",
+        "#text": "Thu, 05 Nov 2026 21:50:19 GMT"
+      }
+    },
+    {
+      "name": "Visitor",
+      "artist": {
+        "#text": "Of Monsters and Men"
+      },
+      "album": {
+        "#text": "Visitor"
+      },
+      "date": {
+        "uts": "1793915665",
+        "#text": "Thu, 05 Nov 2026 21:54:25 GMT"
+      }
+    },
+    {
+      "name": "Empty Nest",
+      "artist": {
+        "#text": "Silversun Pickups"
+      },
+      "album": {
+        "#text": "Physical Thrills"
+      },
+      "date": {
+        "uts": "1793915856",
+        "#text": "Thu, 05 Nov 2026 21:57:36 GMT"
+      }
+    },
+    {
+      "name": "Tether (Eric Prydz Vs. CHVRCHES) - Radio Edit",
+      "artist": {
+        "#text": "Eric Prydz"
+      },
+      "album": {
+        "#text": "Tether (Eric Prydz Vs. CHVRCHES) [Radio Edit]"
+      },
+      "date": {
+        "uts": "1793916106",
+        "#text": "Thu, 05 Nov 2026 22:01:46 GMT"
+      }
+    },
+    {
+      "name": "Don’t Delete the Kisses",
+      "artist": {
+        "#text": "Wolf Alice"
+      },
+      "album": {
+        "#text": "Visions of a Life"
+      },
+      "date": {
+        "uts": "1793916297",
+        "#text": "Thu, 05 Nov 2026 22:04:57 GMT"
+      }
+    },
+    {
+      "name": "Roses",
+      "artist": {
+        "#text": "CHVRCHES"
+      },
+      "album": {
+        "#text": "Roses"
+      },
+      "date": {
+        "uts": "1793916559",
+        "#text": "Thu, 05 Nov 2026 22:09:19 GMT"
+      }
+    },
+    {
+      "name": "Northern Attitude",
+      "artist": {
+        "#text": "Noah Kahan"
+      },
+      "album": {
+        "#text": "Stick Season"
+      },
+      "date": {
+        "uts": "1793916748",
+        "#text": "Thu, 05 Nov 2026 22:12:28 GMT"
+      }
     }
   ],
-  "generated": "2026-11-05T21:32:11.581Z"
+  "generated": "2026-11-06T01:50:29.745Z"
 }
