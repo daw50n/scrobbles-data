@@ -1321,7 +1321,7 @@
             "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/87138bbda83bd0ae8b4da2b6cab9b66a.jpg"
           }
         ],
-        "mbid": "",
+        "mbid": "a68f9706-aad5-4da2-8043-ba6b0c9ff905",
         "album": {
           "mbid": "000b188f-549f-4c11-a5fb-024fbfdb7a13",
           "#text": "Everybody Else Is Doing It, So Why Can't We?"
@@ -1738,19 +1738,19 @@
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/857bd2ba151ebc0f59985b28c5703862.png"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/857bd2ba151ebc0f59985b28c5703862.png"
           },
           {
             "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/857bd2ba151ebc0f59985b28c5703862.png"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/857bd2ba151ebc0f59985b28c5703862.png"
           }
         ],
         "mbid": "",
@@ -5929,7 +5929,7 @@
             "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/877921d7ed9c6f96a79da586e65a6121.jpg"
           }
         ],
-        "mbid": "e6fc2b58-d337-4204-99ee-500bd164c518",
+        "mbid": "3179fb70-15d7-4498-9ff7-19897c021039",
         "album": {
           "mbid": "",
           "#text": "Seventeen Going Under (Deluxe)"
