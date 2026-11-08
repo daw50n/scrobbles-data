@@ -1,123 +1,6 @@
 {
   "tracks": [
     {
-      "name": "Mardy Bum",
-      "artist": {
-        "#text": "Arctic Monkeys"
-      },
-      "album": {
-        "#text": "Whatever People Say I Am, That's What I'm Not"
-      },
-      "date": {
-        "uts": "1793489752",
-        "#text": "Sat, 31 Oct 2026 23:35:52 GMT"
-      }
-    },
-    {
-      "name": "Mountain at My Gates",
-      "artist": {
-        "#text": "Foals"
-      },
-      "album": {
-        "#text": "What Went Down"
-      },
-      "date": {
-        "uts": "1793489928",
-        "#text": "Sat, 31 Oct 2026 23:38:48 GMT"
-      }
-    },
-    {
-      "name": "Always Like This",
-      "artist": {
-        "#text": "Bombay Bicycle Club"
-      },
-      "album": {
-        "#text": "I Had the Blues But I Shook Them Loose"
-      },
-      "date": {
-        "uts": "1793490173",
-        "#text": "Sat, 31 Oct 2026 23:42:53 GMT"
-      }
-    },
-    {
-      "name": "Dog Days Are Over",
-      "artist": {
-        "#text": "Florence + the Machine"
-      },
-      "album": {
-        "#text": "Lungs (Deluxe Version)"
-      },
-      "date": {
-        "uts": "1793490419",
-        "#text": "Sat, 31 Oct 2026 23:46:59 GMT"
-      }
-    },
-    {
-      "name": "Don't Look Back in Anger",
-      "artist": {
-        "#text": "Oasis"
-      },
-      "album": {
-        "#text": "(What's the Story) Morning Glory?"
-      },
-      "date": {
-        "uts": "1793490672",
-        "#text": "Sat, 31 Oct 2026 23:51:12 GMT"
-      }
-    },
-    {
-      "name": "Sweet Disposition",
-      "artist": {
-        "#text": "The Temper Trap"
-      },
-      "album": {
-        "#text": "Conditions"
-      },
-      "date": {
-        "uts": "1793490962",
-        "#text": "Sat, 31 Oct 2026 23:56:02 GMT"
-      }
-    },
-    {
-      "name": "Sheila",
-      "artist": {
-        "#text": "Jamie T"
-      },
-      "album": {
-        "#text": "Panic Prevention"
-      },
-      "date": {
-        "uts": "1793491197",
-        "#text": "Sat, 31 Oct 2026 23:59:57 GMT"
-      }
-    },
-    {
-      "name": "Club Foot",
-      "artist": {
-        "#text": "Kasabian"
-      },
-      "album": {
-        "#text": "Kasabian"
-      },
-      "date": {
-        "uts": "1793491457",
-        "#text": "Sun, 01 Nov 2026 00:04:17 GMT"
-      }
-    },
-    {
-      "name": "L.E.S. Artistes",
-      "artist": {
-        "#text": "Santigold"
-      },
-      "album": {
-        "#text": "Santigold"
-      },
-      "date": {
-        "uts": "1793491672",
-        "#text": "Sun, 01 Nov 2026 00:07:52 GMT"
-      }
-    },
-    {
       "name": "Breezeblocks",
       "artist": {
         "#text": "alt-J"
@@ -1117,7 +1000,189 @@
         "uts": "1794053079",
         "#text": "Sat, 07 Nov 2026 12:04:39 GMT"
       }
+    },
+    {
+      "name": "This Happiness",
+      "artist": {
+        "#text": "Of Monsters and Men"
+      },
+      "album": {
+        "#text": "This Happiness"
+      },
+      "date": {
+        "uts": "1794090632",
+        "#text": "Sat, 07 Nov 2026 22:30:32 GMT"
+      }
+    },
+    {
+      "name": "Skeletons",
+      "artist": {
+        "#text": "Of Monsters and Men"
+      },
+      "album": {
+        "#text": "Live From Vatnagarðar"
+      },
+      "date": {
+        "uts": "1794090865",
+        "#text": "Sat, 07 Nov 2026 22:34:25 GMT"
+      }
+    },
+    {
+      "name": "Ordinary Creature",
+      "artist": {
+        "#text": "Of Monsters and Men"
+      },
+      "album": {
+        "#text": "All is Love and Pain in the Mouse Parade"
+      },
+      "date": {
+        "uts": "1794091072",
+        "#text": "Sat, 07 Nov 2026 22:37:52 GMT"
+      }
+    },
+    {
+      "name": "The Actor",
+      "artist": {
+        "#text": "Of Monsters and Men"
+      },
+      "album": {
+        "#text": "All is Love and Pain in the Mouse Parade"
+      },
+      "date": {
+        "uts": "1794091293",
+        "#text": "Sat, 07 Nov 2026 22:41:33 GMT"
+      }
+    },
+    {
+      "name": "sugar in a bowl",
+      "artist": {
+        "#text": "Of Monsters and Men"
+      },
+      "album": {
+        "#text": "My Head Is An Animal (10th Anniversary Edition)"
+      },
+      "date": {
+        "uts": "1794091567",
+        "#text": "Sat, 07 Nov 2026 22:46:07 GMT"
+      }
+    },
+    {
+      "name": "Silhouettes - From “The Hunger Games: Catching Fire” Soundtrack",
+      "artist": {
+        "#text": "Of Monsters and Men"
+      },
+      "album": {
+        "#text": "The Hunger Games: Catching Fire (Original Motion Picture Soundtrack / Deluxe Version)"
+      },
+      "date": {
+        "uts": "1794091736",
+        "#text": "Sat, 07 Nov 2026 22:48:56 GMT"
+      }
+    },
+    {
+      "name": "Alligator",
+      "artist": {
+        "#text": "Of Monsters and Men"
+      },
+      "album": {
+        "#text": "FEVER DREAM"
+      },
+      "date": {
+        "uts": "1794092008",
+        "#text": "Sat, 07 Nov 2026 22:53:28 GMT"
+      }
+    },
+    {
+      "name": "I of the Storm",
+      "artist": {
+        "#text": "Of Monsters and Men"
+      },
+      "album": {
+        "#text": "Beneath the Skin"
+      },
+      "date": {
+        "uts": "1794092193",
+        "#text": "Sat, 07 Nov 2026 22:56:33 GMT"
+      }
+    },
+    {
+      "name": "Empire",
+      "artist": {
+        "#text": "Of Monsters and Men"
+      },
+      "album": {
+        "#text": "Beneath the Skin"
+      },
+      "date": {
+        "uts": "1794092470",
+        "#text": "Sat, 07 Nov 2026 23:01:10 GMT"
+      }
+    },
+    {
+      "name": "Circles",
+      "artist": {
+        "#text": "Of Monsters and Men"
+      },
+      "album": {
+        "#text": "Circles"
+      },
+      "date": {
+        "uts": "1794092731",
+        "#text": "Sat, 07 Nov 2026 23:05:31 GMT"
+      }
+    },
+    {
+      "name": "We Sink",
+      "artist": {
+        "#text": "Of Monsters and Men"
+      },
+      "album": {
+        "#text": "Beneath the Skin"
+      },
+      "date": {
+        "uts": "1794092954",
+        "#text": "Sat, 07 Nov 2026 23:09:14 GMT"
+      }
+    },
+    {
+      "name": "Wars",
+      "artist": {
+        "#text": "Of Monsters and Men"
+      },
+      "album": {
+        "#text": "FEVER DREAM"
+      },
+      "date": {
+        "uts": "1794093217",
+        "#text": "Sat, 07 Nov 2026 23:13:37 GMT"
+      }
+    },
+    {
+      "name": "Wolves Without Teeth",
+      "artist": {
+        "#text": "Of Monsters and Men"
+      },
+      "album": {
+        "#text": "Beneath the Skin"
+      },
+      "date": {
+        "uts": "1794093434",
+        "#text": "Sat, 07 Nov 2026 23:17:14 GMT"
+      }
+    },
+    {
+      "name": "King and Lionheart",
+      "artist": {
+        "#text": "Of Monsters and Men"
+      },
+      "album": {
+        "#text": "My Head Is an Animal"
+      },
+      "date": {
+        "uts": "1794093668",
+        "#text": "Sat, 07 Nov 2026 23:21:08 GMT"
+      }
     }
   ],
-  "generated": "2026-11-07T22:19:45.397Z"
+  "generated": "2026-11-08T01:44:04.248Z"
 }
