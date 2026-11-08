@@ -545,7 +545,280 @@
         "uts": "1794093668",
         "#text": "Sat, 07 Nov 2026 23:21:08 GMT"
       }
+    },
+    {
+      "name": "Help I'm Alive",
+      "artist": {
+        "#text": "Metric"
+      },
+      "album": {
+        "#text": "Fantasies"
+      },
+      "date": {
+        "uts": "1794165771",
+        "#text": "Sun, 08 Nov 2026 19:22:51 GMT"
+      }
+    },
+    {
+      "name": "Snow on the Beach (feat. more Lana Del Rey)",
+      "artist": {
+        "#text": "Taylor Swift"
+      },
+      "album": {
+        "#text": "Midnights (The Til Dawn Edition)"
+      },
+      "date": {
+        "uts": "1794166101",
+        "#text": "Sun, 08 Nov 2026 19:28:21 GMT"
+      }
+    },
+    {
+      "name": "Buzzcut Season",
+      "artist": {
+        "#text": "Lorde"
+      },
+      "album": {
+        "#text": "Pure Heroine"
+      },
+      "date": {
+        "uts": "1794166332",
+        "#text": "Sun, 08 Nov 2026 19:32:12 GMT"
+      }
+    },
+    {
+      "name": "The walker",
+      "artist": {
+        "#text": "Christine and the Queens"
+      },
+      "album": {
+        "#text": "Chris"
+      },
+      "date": {
+        "uts": "1794166579",
+        "#text": "Sun, 08 Nov 2026 19:36:19 GMT"
+      }
+    },
+    {
+      "name": "Still Falling For You - From \"Bridget Jones's Baby\"",
+      "artist": {
+        "#text": "Ellie Goulding"
+      },
+      "album": {
+        "#text": "Still Falling For You (From \"Bridget Jones's Baby\" Original Motion Picture Soundtrack)"
+      },
+      "date": {
+        "uts": "1794166836",
+        "#text": "Sun, 08 Nov 2026 19:40:36 GMT"
+      }
+    },
+    {
+      "name": "iT",
+      "artist": {
+        "#text": "Christine and the Queens"
+      },
+      "album": {
+        "#text": "Chaleur humaine"
+      },
+      "date": {
+        "uts": "1794167077",
+        "#text": "Sun, 08 Nov 2026 19:44:37 GMT"
+      }
+    },
+    {
+      "name": "Apocalypse",
+      "artist": {
+        "#text": "Cigarettes After Sex"
+      },
+      "album": {
+        "#text": "Cigarettes After Sex"
+      },
+      "date": {
+        "uts": "1794167296",
+        "#text": "Sun, 08 Nov 2026 19:48:16 GMT"
+      }
+    },
+    {
+      "name": "Happiness is a butterfly",
+      "artist": {
+        "#text": "Lana Del Rey"
+      },
+      "album": {
+        "#text": "Norman Fucking Rockwell!"
+      },
+      "date": {
+        "uts": "1794167586",
+        "#text": "Sun, 08 Nov 2026 19:53:06 GMT"
+      }
+    },
+    {
+      "name": "Down Side of Me",
+      "artist": {
+        "#text": "CHVRCHES"
+      },
+      "album": {
+        "#text": "Every Open Eye"
+      },
+      "date": {
+        "uts": "1794167907",
+        "#text": "Sun, 08 Nov 2026 19:58:27 GMT"
+      }
+    },
+    {
+      "name": "Desire",
+      "artist": {
+        "#text": "The Lightning Kids"
+      },
+      "album": {
+        "#text": "Love On The Edge Of Desire"
+      },
+      "date": {
+        "uts": "1794168340",
+        "#text": "Sun, 08 Nov 2026 20:05:40 GMT"
+      }
+    },
+    {
+      "name": "Another Day In Paradise",
+      "artist": {
+        "#text": "Joyner"
+      },
+      "album": {
+        "#text": "Another Day In Paradise"
+      },
+      "date": {
+        "uts": "1794168630",
+        "#text": "Sun, 08 Nov 2026 20:10:30 GMT"
+      }
+    },
+    {
+      "name": "This Year's Love",
+      "artist": {
+        "#text": "David Gray"
+      },
+      "album": {
+        "#text": "White Ladder"
+      },
+      "date": {
+        "uts": "1794168914",
+        "#text": "Sun, 08 Nov 2026 20:15:14 GMT"
+      }
+    },
+    {
+      "name": "Big Jet Plane",
+      "artist": {
+        "#text": "Angus & Julia Stone"
+      },
+      "album": {
+        "#text": "Down the Way"
+      },
+      "date": {
+        "uts": "1794169160",
+        "#text": "Sun, 08 Nov 2026 20:19:20 GMT"
+      }
+    },
+    {
+      "name": "Heartbeats",
+      "artist": {
+        "#text": "José González"
+      },
+      "album": {
+        "#text": "Veneer"
+      },
+      "date": {
+        "uts": "1794169400",
+        "#text": "Sun, 08 Nov 2026 20:23:20 GMT"
+      }
+    },
+    {
+      "name": "How Do I Say Goodbye",
+      "artist": {
+        "#text": "Dean Lewis"
+      },
+      "album": {
+        "#text": "The Hardest Love"
+      },
+      "date": {
+        "uts": "1794169560",
+        "#text": "Sun, 08 Nov 2026 20:26:00 GMT"
+      }
+    },
+    {
+      "name": "Fall at Your Feet",
+      "artist": {
+        "#text": "Crowded House"
+      },
+      "album": {
+        "#text": "Woodface"
+      },
+      "date": {
+        "uts": "1794169724",
+        "#text": "Sun, 08 Nov 2026 20:28:44 GMT"
+      }
+    },
+    {
+      "name": "Strong",
+      "artist": {
+        "#text": "London Grammar"
+      },
+      "album": {
+        "#text": "If You Wait"
+      },
+      "date": {
+        "uts": "1794169924",
+        "#text": "Sun, 08 Nov 2026 20:32:04 GMT"
+      }
+    },
+    {
+      "name": "The Air That I Breathe",
+      "artist": {
+        "#text": "The Hollies"
+      },
+      "album": {
+        "#text": "Hollies"
+      },
+      "date": {
+        "uts": "1794170200",
+        "#text": "Sun, 08 Nov 2026 20:36:40 GMT"
+      }
+    },
+    {
+      "name": "It's OK - Live MHS Studios",
+      "artist": {
+        "#text": "Nightbirde"
+      },
+      "album": {
+        "#text": "It's OK"
+      },
+      "date": {
+        "uts": "1794170458",
+        "#text": "Sun, 08 Nov 2026 20:40:58 GMT"
+      }
+    },
+    {
+      "name": "By Your Side",
+      "artist": {
+        "#text": "Sade"
+      },
+      "album": {
+        "#text": "Lovers Rock"
+      },
+      "date": {
+        "uts": "1794170703",
+        "#text": "Sun, 08 Nov 2026 20:45:03 GMT"
+      }
+    },
+    {
+      "name": "Coming Around Again",
+      "artist": {
+        "#text": "Alanis Morissette"
+      },
+      "album": {
+        "#text": "Coming Around Again"
+      },
+      "date": {
+        "uts": "1794170978",
+        "#text": "Sun, 08 Nov 2026 20:49:38 GMT"
+      }
     }
   ],
-  "generated": "2026-11-08T18:51:17.713Z"
+  "generated": "2026-11-08T22:43:06.910Z"
 }
