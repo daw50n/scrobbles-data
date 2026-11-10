@@ -818,7 +818,111 @@
         "uts": "1794170978",
         "#text": "Sun, 08 Nov 2026 20:49:38 GMT"
       }
+    },
+    {
+      "name": "Ooh La",
+      "artist": {
+        "#text": "The Kooks"
+      },
+      "album": {
+        "#text": "Inside In / Inside Out"
+      },
+      "date": {
+        "uts": "1794259533",
+        "#text": "Mon, 09 Nov 2026 21:25:33 GMT"
+      }
+    },
+    {
+      "name": "My Number",
+      "artist": {
+        "#text": "Foals"
+      },
+      "album": {
+        "#text": "Holy Fire"
+      },
+      "date": {
+        "uts": "1794259742",
+        "#text": "Mon, 09 Nov 2026 21:29:02 GMT"
+      }
+    },
+    {
+      "name": "Golden Touch",
+      "artist": {
+        "#text": "Razorlight"
+      },
+      "album": {
+        "#text": "Up All Night"
+      },
+      "date": {
+        "uts": "1794259989",
+        "#text": "Mon, 09 Nov 2026 21:33:09 GMT"
+      }
+    },
+    {
+      "name": "Golden Skans",
+      "artist": {
+        "#text": "Klaxons"
+      },
+      "album": {
+        "#text": "Myths of the Near Future"
+      },
+      "date": {
+        "uts": "1794260195",
+        "#text": "Mon, 09 Nov 2026 21:36:35 GMT"
+      }
+    },
+    {
+      "name": "Fire",
+      "artist": {
+        "#text": "Kasabian"
+      },
+      "album": {
+        "#text": "West Ryder Pauper Lunatic Asylum"
+      },
+      "date": {
+        "uts": "1794260360",
+        "#text": "Mon, 09 Nov 2026 21:39:20 GMT"
+      }
+    },
+    {
+      "name": "Never Miss a Beat",
+      "artist": {
+        "#text": "Kaiser Chiefs"
+      },
+      "album": {
+        "#text": "Off with Their Heads"
+      },
+      "date": {
+        "uts": "1794260613",
+        "#text": "Mon, 09 Nov 2026 21:43:33 GMT"
+      }
+    },
+    {
+      "name": "Death",
+      "artist": {
+        "#text": "White Lies"
+      },
+      "album": {
+        "#text": "To Lose My Life... (Bonus remix version)"
+      },
+      "date": {
+        "uts": "1794260801",
+        "#text": "Mon, 09 Nov 2026 21:46:41 GMT"
+      }
+    },
+    {
+      "name": "Munich",
+      "artist": {
+        "#text": "Editors"
+      },
+      "album": {
+        "#text": "The Back Room"
+      },
+      "date": {
+        "uts": "1794261102",
+        "#text": "Mon, 09 Nov 2026 21:51:42 GMT"
+      }
     }
   ],
-  "generated": "2026-11-09T17:19:09.641Z"
+  "generated": "2026-11-10T00:49:51.366Z"
 }
