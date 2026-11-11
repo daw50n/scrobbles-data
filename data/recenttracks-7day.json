@@ -922,7 +922,189 @@
         "uts": "1794261102",
         "#text": "Mon, 09 Nov 2026 21:51:42 GMT"
       }
+    },
+    {
+      "name": "i went back to ibiza",
+      "artist": {
+        "#text": "Mike Posner"
+      },
+      "album": {
+        "#text": "I Went Back To Ibiza"
+      },
+      "date": {
+        "uts": "1794346431",
+        "#text": "Tue, 10 Nov 2026 21:33:51 GMT"
+      }
+    },
+    {
+      "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "artist": {
+        "#text": "Noah Kahan"
+      },
+      "album": {
+        "#text": "Draw You Out"
+      },
+      "date": {
+        "uts": "1794346672",
+        "#text": "Tue, 10 Nov 2026 21:37:52 GMT"
+      }
+    },
+    {
+      "name": "Rein Me In (with Olivia Dean)",
+      "artist": {
+        "#text": "Sam Fender"
+      },
+      "album": {
+        "#text": "People Watching (Deluxe Edition)"
+      },
+      "date": {
+        "uts": "1794346928",
+        "#text": "Tue, 10 Nov 2026 21:42:08 GMT"
+      }
+    },
+    {
+      "name": "Rose",
+      "artist": {
+        "#text": "Kings of Leon"
+      },
+      "album": {
+        "#text": "O My Beloved"
+      },
+      "date": {
+        "uts": "1794347283",
+        "#text": "Tue, 10 Nov 2026 21:48:03 GMT"
+      }
+    },
+    {
+      "name": "Unknown Legend",
+      "artist": {
+        "#text": "New Constellations"
+      },
+      "album": {
+        "#text": "Unknown Legend"
+      },
+      "date": {
+        "uts": "1794347489",
+        "#text": "Tue, 10 Nov 2026 21:51:29 GMT"
+      }
+    },
+    {
+      "name": "Too Cute To Be Lonely - Acoustic",
+      "artist": {
+        "#text": "Holly Humberstone"
+      },
+      "album": {
+        "#text": "Too Cute To Be Lonely (Acoustic)"
+      },
+      "date": {
+        "uts": "1794347767",
+        "#text": "Tue, 10 Nov 2026 21:56:07 GMT"
+      }
+    },
+    {
+      "name": "Here You Come, There You Go",
+      "artist": {
+        "#text": "Gracie Abrams"
+      },
+      "album": {
+        "#text": "Here You Come, There You Go"
+      },
+      "date": {
+        "uts": "1794347972",
+        "#text": "Tue, 10 Nov 2026 21:59:32 GMT"
+      }
+    },
+    {
+      "name": "You're the Only One (I Never Performed For)",
+      "artist": {
+        "#text": "Avery Cochrane"
+      },
+      "album": {
+        "#text": "You're the Only One (I Never Performed For)"
+      },
+      "date": {
+        "uts": "1794348143",
+        "#text": "Tue, 10 Nov 2026 22:02:23 GMT"
+      }
+    },
+    {
+      "name": "Sleepwalker",
+      "artist": {
+        "#text": "Of Monsters and Men"
+      },
+      "album": {
+        "#text": "FEVER DREAM"
+      },
+      "date": {
+        "uts": "1794348358",
+        "#text": "Tue, 10 Nov 2026 22:05:58 GMT"
+      }
+    },
+    {
+      "name": "Keeping score",
+      "artist": {
+        "#text": "Sasha Alex Sloan"
+      },
+      "album": {
+        "#text": "And The Crowd Goes Mild"
+      },
+      "date": {
+        "uts": "1794348558",
+        "#text": "Tue, 10 Nov 2026 22:09:18 GMT"
+      }
+    },
+    {
+      "name": "Crossfire",
+      "artist": {
+        "#text": "Brandon Flowers"
+      },
+      "album": {
+        "#text": "Flamingo"
+      },
+      "date": {
+        "uts": "1794348748",
+        "#text": "Tue, 10 Nov 2026 22:12:28 GMT"
+      }
+    },
+    {
+      "name": "Pray For Me",
+      "artist": {
+        "#text": "Ellie Goulding"
+      },
+      "album": {
+        "#text": "Nobody Wants This: Season 3 (Soundtrack from the Netflix Series)"
+      },
+      "date": {
+        "uts": "1794349005",
+        "#text": "Tue, 10 Nov 2026 22:16:45 GMT"
+      }
+    },
+    {
+      "name": "Tom and Jerry",
+      "artist": {
+        "#text": "John Mayer"
+      },
+      "album": {
+        "#text": "Tom and Jerry"
+      },
+      "date": {
+        "uts": "1794349190",
+        "#text": "Tue, 10 Nov 2026 22:19:50 GMT"
+      }
+    },
+    {
+      "name": "Such Great Heights - From \"Tell Me Lies (Season 3)\"",
+      "artist": {
+        "#text": "CHVRCHES"
+      },
+      "album": {
+        "#text": "Such Great Heights [From \"Tell Me Lies (Season 3)\"]"
+      },
+      "date": {
+        "uts": "1794349423",
+        "#text": "Tue, 10 Nov 2026 22:23:43 GMT"
+      }
     }
   ],
-  "generated": "2026-11-10T21:24:23.120Z"
+  "generated": "2026-11-11T01:24:43.211Z"
 }
