@@ -1104,7 +1104,215 @@
         "uts": "1794349423",
         "#text": "Tue, 10 Nov 2026 22:23:43 GMT"
       }
+    },
+    {
+      "name": "Fade Into You",
+      "artist": {
+        "#text": "Mazzy Star"
+      },
+      "album": {
+        "#text": "So Tonight That I Might See"
+      },
+      "date": {
+        "uts": "1794424524",
+        "#text": "Wed, 11 Nov 2026 19:15:24 GMT"
+      }
+    },
+    {
+      "name": "Full of life",
+      "artist": {
+        "#text": "Christine and the Queens"
+      },
+      "album": {
+        "#text": "PARANOÏA, ANGELS, TRUE LOVE"
+      },
+      "date": {
+        "uts": "1794424863",
+        "#text": "Wed, 11 Nov 2026 19:21:03 GMT"
+      }
+    },
+    {
+      "name": "Song for Zula",
+      "artist": {
+        "#text": "Phosphorescent"
+      },
+      "album": {
+        "#text": "Muchacho"
+      },
+      "date": {
+        "uts": "1794425135",
+        "#text": "Wed, 11 Nov 2026 19:25:35 GMT"
+      }
+    },
+    {
+      "name": "Linger",
+      "artist": {
+        "#text": "The Cranberries"
+      },
+      "album": {
+        "#text": "Everybody Else Is Doing It, So Why Can't We?"
+      },
+      "date": {
+        "uts": "1794425506",
+        "#text": "Wed, 11 Nov 2026 19:31:46 GMT"
+      }
+    },
+    {
+      "name": "And It Breaks My Heart",
+      "artist": {
+        "#text": "LÉON"
+      },
+      "album": {
+        "#text": "Apart"
+      },
+      "date": {
+        "uts": "1794425781",
+        "#text": "Wed, 11 Nov 2026 19:36:21 GMT"
+      }
+    },
+    {
+      "name": "Somewhere Only We Know",
+      "artist": {
+        "#text": "Keane"
+      },
+      "album": {
+        "#text": "Hopes and Fears"
+      },
+      "date": {
+        "uts": "1794426029",
+        "#text": "Wed, 11 Nov 2026 19:40:29 GMT"
+      }
+    },
+    {
+      "name": "Circadian Rhythm (Last Dance)",
+      "artist": {
+        "#text": "Silversun Pickups"
+      },
+      "album": {
+        "#text": "Better Nature"
+      },
+      "date": {
+        "uts": "1794426266",
+        "#text": "Wed, 11 Nov 2026 19:44:26 GMT"
+      }
+    },
+    {
+      "name": "who’s your boyfriend",
+      "artist": {
+        "#text": "Royel Otis"
+      },
+      "album": {
+        "#text": "hickey"
+      },
+      "date": {
+        "uts": "1794426496",
+        "#text": "Wed, 11 Nov 2026 19:48:16 GMT"
+      }
+    },
+    {
+      "name": "KOYSAR",
+      "artist": {
+        "#text": "Kings of Leon"
+      },
+      "album": {
+        "#text": "O My Beloved"
+      },
+      "date": {
+        "uts": "1794426670",
+        "#text": "Wed, 11 Nov 2026 19:51:10 GMT"
+      }
+    },
+    {
+      "name": "Die Happy",
+      "artist": {
+        "#text": "Holly Humberstone"
+      },
+      "album": {
+        "#text": "Cruel World"
+      },
+      "date": {
+        "uts": "1794426867",
+        "#text": "Wed, 11 Nov 2026 19:54:27 GMT"
+      }
+    },
+    {
+      "name": "Dandelion",
+      "artist": {
+        "#text": "New Constellations"
+      },
+      "album": {
+        "#text": "It Comes in Waves"
+      },
+      "date": {
+        "uts": "1794432308",
+        "#text": "Wed, 11 Nov 2026 21:25:08 GMT"
+      }
+    },
+    {
+      "name": "Delicious Things",
+      "artist": {
+        "#text": "Wolf Alice"
+      },
+      "album": {
+        "#text": "Blue Weekend"
+      },
+      "date": {
+        "uts": "1794432561",
+        "#text": "Wed, 11 Nov 2026 21:29:21 GMT"
+      }
+    },
+    {
+      "name": "Northern Attitude",
+      "artist": {
+        "#text": "Noah Kahan"
+      },
+      "album": {
+        "#text": "Stick Season"
+      },
+      "date": {
+        "uts": "1794432866",
+        "#text": "Wed, 11 Nov 2026 21:34:26 GMT"
+      }
+    },
+    {
+      "name": "4 Seasons",
+      "artist": {
+        "#text": "Ellie Goulding"
+      },
+      "album": {
+        "#text": "I Know Too Much"
+      },
+      "date": {
+        "uts": "1794433134",
+        "#text": "Wed, 11 Nov 2026 21:38:54 GMT"
+      }
+    },
+    {
+      "name": "Pepper",
+      "artist": {
+        "#text": "Death Cab for Cutie"
+      },
+      "album": {
+        "#text": "Asphalt Meadows"
+      },
+      "date": {
+        "uts": "1794433351",
+        "#text": "Wed, 11 Nov 2026 21:42:31 GMT"
+      }
+    },
+    {
+      "name": "All",
+      "artist": {
+        "#text": "Snow Patrol"
+      },
+      "album": {
+        "#text": "The Forest Is the Path"
+      },
+      "date": {
+        "uts": "1794433520",
+        "#text": "Wed, 11 Nov 2026 21:45:20 GMT"
+      }
     }
   ],
-  "generated": "2026-11-11T14:59:43.972Z"
+  "generated": "2026-11-11T21:51:18.651Z"
 }
