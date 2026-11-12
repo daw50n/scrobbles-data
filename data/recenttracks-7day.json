@@ -1,162 +1,6 @@
 {
   "tracks": [
     {
-      "name": "Look At My Life",
-      "artist": {
-        "#text": "Gracie Abrams"
-      },
-      "album": {
-        "#text": "Daughter from Hell"
-      },
-      "date": {
-        "uts": "1793913879",
-        "#text": "Thu, 05 Nov 2026 21:24:39 GMT"
-      }
-    },
-    {
-      "name": "Strong",
-      "artist": {
-        "#text": "London Grammar"
-      },
-      "album": {
-        "#text": "If You Wait"
-      },
-      "date": {
-        "uts": "1793914056",
-        "#text": "Thu, 05 Nov 2026 21:27:36 GMT"
-      }
-    },
-    {
-      "name": "Rein Me In (with Olivia Dean)",
-      "artist": {
-        "#text": "Sam Fender"
-      },
-      "album": {
-        "#text": "People Watching (Deluxe Edition)"
-      },
-      "date": {
-        "uts": "1793914311",
-        "#text": "Thu, 05 Nov 2026 21:31:51 GMT"
-      }
-    },
-    {
-      "name": "Open Your Eyes",
-      "artist": {
-        "#text": "School of Seven Bells"
-      },
-      "album": {
-        "#text": "SVIIB"
-      },
-      "date": {
-        "uts": "1793914589",
-        "#text": "Thu, 05 Nov 2026 21:36:29 GMT"
-      }
-    },
-    {
-      "name": "Touch Touch",
-      "artist": {
-        "#text": "Haute & Freddy"
-      },
-      "album": {
-        "#text": "Touch Touch"
-      },
-      "date": {
-        "uts": "1793914826",
-        "#text": "Thu, 05 Nov 2026 21:40:26 GMT"
-      }
-    },
-    {
-      "name": "How Not To Drown (feat. Robert Smith)",
-      "artist": {
-        "#text": "CHVRCHES"
-      },
-      "album": {
-        "#text": "Screen Violence"
-      },
-      "date": {
-        "uts": "1793915101",
-        "#text": "Thu, 05 Nov 2026 21:45:01 GMT"
-      }
-    },
-    {
-      "name": "All Comes Crashing",
-      "artist": {
-        "#text": "Metric"
-      },
-      "album": {
-        "#text": "Formentera"
-      },
-      "date": {
-        "uts": "1793915419",
-        "#text": "Thu, 05 Nov 2026 21:50:19 GMT"
-      }
-    },
-    {
-      "name": "Visitor",
-      "artist": {
-        "#text": "Of Monsters and Men"
-      },
-      "album": {
-        "#text": "Visitor"
-      },
-      "date": {
-        "uts": "1793915665",
-        "#text": "Thu, 05 Nov 2026 21:54:25 GMT"
-      }
-    },
-    {
-      "name": "Empty Nest",
-      "artist": {
-        "#text": "Silversun Pickups"
-      },
-      "album": {
-        "#text": "Physical Thrills"
-      },
-      "date": {
-        "uts": "1793915856",
-        "#text": "Thu, 05 Nov 2026 21:57:36 GMT"
-      }
-    },
-    {
-      "name": "Tether (Eric Prydz Vs. CHVRCHES) - Radio Edit",
-      "artist": {
-        "#text": "Eric Prydz"
-      },
-      "album": {
-        "#text": "Tether (Eric Prydz Vs. CHVRCHES) [Radio Edit]"
-      },
-      "date": {
-        "uts": "1793916106",
-        "#text": "Thu, 05 Nov 2026 22:01:46 GMT"
-      }
-    },
-    {
-      "name": "Don’t Delete the Kisses",
-      "artist": {
-        "#text": "Wolf Alice"
-      },
-      "album": {
-        "#text": "Visions of a Life"
-      },
-      "date": {
-        "uts": "1793916297",
-        "#text": "Thu, 05 Nov 2026 22:04:57 GMT"
-      }
-    },
-    {
-      "name": "Roses",
-      "artist": {
-        "#text": "CHVRCHES"
-      },
-      "album": {
-        "#text": "Roses"
-      },
-      "date": {
-        "uts": "1793916559",
-        "#text": "Thu, 05 Nov 2026 22:09:19 GMT"
-      }
-    },
-    {
       "name": "Northern Attitude",
       "artist": {
         "#text": "Noah Kahan"
@@ -1377,7 +1221,150 @@
         "uts": "1794434822",
         "#text": "Wed, 11 Nov 2026 22:07:02 GMT"
       }
+    },
+    {
+      "name": "REDLIGHTS",
+      "artist": {
+        "#text": "Miley Cyrus"
+      },
+      "album": {
+        "#text": "Bass Persuades"
+      },
+      "date": {
+        "uts": "1794518954",
+        "#text": "Thu, 12 Nov 2026 21:29:14 GMT"
+      }
+    },
+    {
+      "name": "just like heaven",
+      "artist": {
+        "#text": "The Lumineers"
+      },
+      "album": {
+        "#text": "just like heaven"
+      },
+      "date": {
+        "uts": "1794519305",
+        "#text": "Thu, 12 Nov 2026 21:35:05 GMT"
+      }
+    },
+    {
+      "name": "Always Think of You",
+      "artist": {
+        "#text": "Ellie Goulding"
+      },
+      "album": {
+        "#text": "I Know Too Much"
+      },
+      "date": {
+        "uts": "1794519466",
+        "#text": "Thu, 12 Nov 2026 21:37:46 GMT"
+      }
+    },
+    {
+      "name": "Edge of the Earth",
+      "artist": {
+        "#text": "The Beaches"
+      },
+      "album": {
+        "#text": "Blame My Ex"
+      },
+      "date": {
+        "uts": "1794519643",
+        "#text": "Thu, 12 Nov 2026 21:40:43 GMT"
+      }
+    },
+    {
+      "name": "Overthinker",
+      "artist": {
+        "#text": "CHVRCHES"
+      },
+      "album": {
+        "#text": "Overthinker"
+      },
+      "date": {
+        "uts": "1794519808",
+        "#text": "Thu, 12 Nov 2026 21:43:28 GMT"
+      }
+    },
+    {
+      "name": "Romanticize the Dive (from the Netflix Series \"Nobody Wants This\" Season 3)",
+      "artist": {
+        "#text": "Metric"
+      },
+      "album": {
+        "#text": "Romanticize the Dive (from the Netflix Series \"Nobody Wants This\" Season 3)"
+      },
+      "date": {
+        "uts": "1794520026",
+        "#text": "Thu, 12 Nov 2026 21:47:06 GMT"
+      }
+    },
+    {
+      "name": "Lonely Town",
+      "artist": {
+        "#text": "Brandon Flowers"
+      },
+      "album": {
+        "#text": "The Desired Effect"
+      },
+      "date": {
+        "uts": "1794520241",
+        "#text": "Thu, 12 Nov 2026 21:50:41 GMT"
+      }
+    },
+    {
+      "name": "Blush",
+      "artist": {
+        "#text": "Wolf Alice"
+      },
+      "album": {
+        "#text": "My Love Is Cool (Deluxe Edition)"
+      },
+      "date": {
+        "uts": "1794520429",
+        "#text": "Thu, 12 Nov 2026 21:53:49 GMT"
+      }
+    },
+    {
+      "name": "Slide",
+      "artist": {
+        "#text": "The Temper Trap"
+      },
+      "album": {
+        "#text": "Slide"
+      },
+      "date": {
+        "uts": "1794520674",
+        "#text": "Thu, 12 Nov 2026 21:57:54 GMT"
+      }
+    },
+    {
+      "name": "Empty Nest",
+      "artist": {
+        "#text": "Silversun Pickups"
+      },
+      "album": {
+        "#text": "Physical Thrills"
+      },
+      "date": {
+        "uts": "1794520877",
+        "#text": "Thu, 12 Nov 2026 22:01:17 GMT"
+      }
+    },
+    {
+      "name": "California",
+      "artist": {
+        "#text": "CHVRCHES"
+      },
+      "album": {
+        "#text": "Screen Violence"
+      },
+      "date": {
+        "uts": "1794521127",
+        "#text": "Thu, 12 Nov 2026 22:05:27 GMT"
+      }
     }
   ],
-  "generated": "2026-11-12T15:53:12.619Z"
+  "generated": "2026-11-12T22:09:40.682Z"
 }
