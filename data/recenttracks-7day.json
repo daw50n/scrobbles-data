@@ -1312,7 +1312,72 @@
         "uts": "1794433520",
         "#text": "Wed, 11 Nov 2026 21:45:20 GMT"
       }
+    },
+    {
+      "name": "The Way",
+      "artist": {
+        "#text": "Manchester Orchestra"
+      },
+      "album": {
+        "#text": "The Way"
+      },
+      "date": {
+        "uts": "1794433779",
+        "#text": "Wed, 11 Nov 2026 21:49:39 GMT"
+      }
+    },
+    {
+      "name": "Hold No Grudge - Bonus Track",
+      "artist": {
+        "#text": "Lorde"
+      },
+      "album": {
+        "#text": "Solar Power (Deluxe Edition)"
+      },
+      "date": {
+        "uts": "1794434014",
+        "#text": "Wed, 11 Nov 2026 21:53:34 GMT"
+      }
+    },
+    {
+      "name": "Video Games",
+      "artist": {
+        "#text": "Lana Del Rey"
+      },
+      "album": {
+        "#text": "Born to Die - The Paradise Edition"
+      },
+      "date": {
+        "uts": "1794434284",
+        "#text": "Wed, 11 Nov 2026 21:58:04 GMT"
+      }
+    },
+    {
+      "name": "Here with Me",
+      "artist": {
+        "#text": "Dido"
+      },
+      "album": {
+        "#text": "No Angel"
+      },
+      "date": {
+        "uts": "1794434566",
+        "#text": "Wed, 11 Nov 2026 22:02:46 GMT"
+      }
+    },
+    {
+      "name": "Between Me and You",
+      "artist": {
+        "#text": "Brandon Flowers"
+      },
+      "album": {
+        "#text": "The Desired Effect"
+      },
+      "date": {
+        "uts": "1794434822",
+        "#text": "Wed, 11 Nov 2026 22:07:02 GMT"
+      }
     }
   ],
-  "generated": "2026-11-11T21:51:18.651Z"
+  "generated": "2026-11-12T02:46:49.945Z"
 }
