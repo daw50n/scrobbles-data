@@ -1364,7 +1364,254 @@
         "uts": "1794521356",
         "#text": "Thu, 12 Nov 2026 22:09:16 GMT"
       }
+    },
+    {
+      "name": "Never Ending Circles",
+      "artist": {
+        "#text": "CHVRCHES"
+      },
+      "album": {
+        "#text": "Every Open Eye"
+      },
+      "date": {
+        "uts": "1794590917",
+        "#text": "Fri, 13 Nov 2026 17:28:37 GMT"
+      }
+    },
+    {
+      "name": "Paths in the Sky",
+      "artist": {
+        "#text": "Metric"
+      },
+      "album": {
+        "#text": "Formentera"
+      },
+      "date": {
+        "uts": "1794591091",
+        "#text": "Fri, 13 Nov 2026 17:31:31 GMT"
+      }
+    },
+    {
+      "name": "Shapeshifter",
+      "artist": {
+        "#text": "Lorde"
+      },
+      "album": {
+        "#text": "Virgin"
+      },
+      "date": {
+        "uts": "1794591359",
+        "#text": "Fri, 13 Nov 2026 17:35:59 GMT"
+      }
+    },
+    {
+      "name": "Black Coffee",
+      "artist": {
+        "#text": "All Saints"
+      },
+      "album": {
+        "#text": "Saints & Sinners"
+      },
+      "date": {
+        "uts": "1794591607",
+        "#text": "Fri, 13 Nov 2026 17:40:07 GMT"
+      }
+    },
+    {
+      "name": "How Does It Feel",
+      "artist": {
+        "#text": "London Grammar"
+      },
+      "album": {
+        "#text": "Californian Soil"
+      },
+      "date": {
+        "uts": "1794591883",
+        "#text": "Fri, 13 Nov 2026 17:44:43 GMT"
+      }
+    },
+    {
+      "name": "Take Me Back - Robin Schulz Remix",
+      "artist": {
+        "#text": "Kygo"
+      },
+      "album": {
+        "#text": "Take Me Back (Robin Schulz Remix)"
+      },
+      "date": {
+        "uts": "1794592101",
+        "#text": "Fri, 13 Nov 2026 17:48:21 GMT"
+      }
+    },
+    {
+      "name": "Test My Luck",
+      "artist": {
+        "#text": "Purple Disco Machine"
+      },
+      "album": {
+        "#text": "Test My Luck"
+      },
+      "date": {
+        "uts": "1794592248",
+        "#text": "Fri, 13 Nov 2026 17:50:48 GMT"
+      }
+    },
+    {
+      "name": "These Alarms",
+      "artist": {
+        "#text": "Snow Patrol"
+      },
+      "album": {
+        "#text": "These Alarms"
+      },
+      "date": {
+        "uts": "1794592452",
+        "#text": "Fri, 13 Nov 2026 17:54:12 GMT"
+      }
+    },
+    {
+      "name": "Love You Like That",
+      "artist": {
+        "#text": "Dagny"
+      },
+      "album": {
+        "#text": "Love You Like That"
+      },
+      "date": {
+        "uts": "1794592632",
+        "#text": "Fri, 13 Nov 2026 17:57:12 GMT"
+      }
+    },
+    {
+      "name": "The Shade",
+      "artist": {
+        "#text": "Metric"
+      },
+      "album": {
+        "#text": "Pagans in Vegas"
+      },
+      "date": {
+        "uts": "1794592815",
+        "#text": "Fri, 13 Nov 2026 18:00:15 GMT"
+      }
+    },
+    {
+      "name": "Rose",
+      "artist": {
+        "#text": "Kings of Leon"
+      },
+      "album": {
+        "#text": "O My Beloved"
+      },
+      "date": {
+        "uts": "1794593036",
+        "#text": "Fri, 13 Nov 2026 18:03:56 GMT"
+      }
+    },
+    {
+      "name": "Alive Again",
+      "artist": {
+        "#text": "Lights"
+      },
+      "album": {
+        "#text": "A6"
+      },
+      "date": {
+        "uts": "1794593292",
+        "#text": "Fri, 13 Nov 2026 18:08:12 GMT"
+      }
+    },
+    {
+      "name": "The Walls Are Way Too Thin",
+      "artist": {
+        "#text": "Holly Humberstone"
+      },
+      "album": {
+        "#text": "Can You Afford To Lose Me?"
+      },
+      "date": {
+        "uts": "1794593504",
+        "#text": "Fri, 13 Nov 2026 18:11:44 GMT"
+      }
+    },
+    {
+      "name": "Favourite Daughter",
+      "artist": {
+        "#text": "Lorde"
+      },
+      "album": {
+        "#text": "Virgin"
+      },
+      "date": {
+        "uts": "1794593716",
+        "#text": "Fri, 13 Nov 2026 18:15:16 GMT"
+      }
+    },
+    {
+      "name": "Hammer",
+      "artist": {
+        "#text": "Lorde"
+      },
+      "album": {
+        "#text": "Virgin"
+      },
+      "date": {
+        "uts": "1794593926",
+        "#text": "Fri, 13 Nov 2026 18:18:46 GMT"
+      }
+    },
+    {
+      "name": "What Was That",
+      "artist": {
+        "#text": "Lorde"
+      },
+      "album": {
+        "#text": "Virgin"
+      },
+      "date": {
+        "uts": "1794594119",
+        "#text": "Fri, 13 Nov 2026 18:21:59 GMT"
+      }
+    },
+    {
+      "name": "Shapeshifter",
+      "artist": {
+        "#text": "Lorde"
+      },
+      "album": {
+        "#text": "Virgin"
+      },
+      "date": {
+        "uts": "1794594329",
+        "#text": "Fri, 13 Nov 2026 18:25:29 GMT"
+      }
+    },
+    {
+      "name": "Man of the Year",
+      "artist": {
+        "#text": "Lorde"
+      },
+      "album": {
+        "#text": "Virgin"
+      },
+      "date": {
+        "uts": "1794594586",
+        "#text": "Fri, 13 Nov 2026 18:29:46 GMT"
+      }
+    },
+    {
+      "name": "Favourite Daughter",
+      "artist": {
+        "#text": "Lorde"
+      },
+      "album": {
+        "#text": "Virgin"
+      },
+      "date": {
+        "uts": "1794594766",
+        "#text": "Fri, 13 Nov 2026 18:32:46 GMT"
+      }
     }
   ],
-  "generated": "2026-11-13T15:13:51.764Z"
+  "generated": "2026-11-13T21:27:29.773Z"
 }
