@@ -25,6 +25,114 @@
             "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6e50976b469be47c1e383cc12f564778.jpg"
           }
         ],
+        "mbid": "37fc7b8e-3144-4725-98ac-a5afb1f5711f",
+        "album": {
+          "mbid": "75d7be76-f848-43b3-a0a1-928a78ffa7ee",
+          "#text": "Virgin"
+        },
+        "name": "GRWM",
+        "url": "https://www.last.fm/music/Lorde/_/GRWM",
+        "date": {
+          "uts": "1794611537",
+          "#text": "13 Nov 2026, 23:12"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "8e494408-8620-4c6a-82c2-c2ca4a1e4f12",
+          "#text": "Lorde"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/6e50976b469be47c1e383cc12f564778.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/6e50976b469be47c1e383cc12f564778.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/6e50976b469be47c1e383cc12f564778.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6e50976b469be47c1e383cc12f564778.jpg"
+          }
+        ],
+        "mbid": "e5ded0f4-9f50-4eea-bd3a-6021e3b612ee",
+        "album": {
+          "mbid": "75d7be76-f848-43b3-a0a1-928a78ffa7ee",
+          "#text": "Virgin"
+        },
+        "name": "Clearblue",
+        "url": "https://www.last.fm/music/Lorde/_/Clearblue",
+        "date": {
+          "uts": "1794611419",
+          "#text": "13 Nov 2026, 23:10"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "8e494408-8620-4c6a-82c2-c2ca4a1e4f12",
+          "#text": "Lorde"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/6e50976b469be47c1e383cc12f564778.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/6e50976b469be47c1e383cc12f564778.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/6e50976b469be47c1e383cc12f564778.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6e50976b469be47c1e383cc12f564778.jpg"
+          }
+        ],
+        "mbid": "7c56d9cd-4634-43b8-884c-5c3a20ef31dd",
+        "album": {
+          "mbid": "75d7be76-f848-43b3-a0a1-928a78ffa7ee",
+          "#text": "Virgin"
+        },
+        "name": "Current Affairs",
+        "url": "https://www.last.fm/music/Lorde/_/Current+Affairs",
+        "date": {
+          "uts": "1794611231",
+          "#text": "13 Nov 2026, 23:07"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "8e494408-8620-4c6a-82c2-c2ca4a1e4f12",
+          "#text": "Lorde"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/6e50976b469be47c1e383cc12f564778.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/6e50976b469be47c1e383cc12f564778.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/6e50976b469be47c1e383cc12f564778.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6e50976b469be47c1e383cc12f564778.jpg"
+          }
+        ],
         "mbid": "52fc05eb-4535-4eae-b4e1-a2ca29363eb1",
         "album": {
           "mbid": "75d7be76-f848-43b3-a0a1-928a78ffa7ee",
@@ -7092,118 +7200,10 @@
           "uts": "1793467081",
           "#text": "31 Oct 2026, 17:18"
         }
-      },
-      {
-        "artist": {
-          "mbid": "3478a5d1-bd96-4584-aa54-4d6e0a329658",
-          "#text": "Sam Fender"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/555e541083ecf2a580c50191397176ff.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/555e541083ecf2a580c50191397176ff.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/555e541083ecf2a580c50191397176ff.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/555e541083ecf2a580c50191397176ff.jpg"
-          }
-        ],
-        "mbid": "43c71a15-8f4e-4e85-b5c0-67c28dfb4b54",
-        "album": {
-          "mbid": "",
-          "#text": "People Watching (Deluxe Edition)"
-        },
-        "name": "Rein Me In (with Olivia Dean)",
-        "url": "https://www.last.fm/music/Sam+Fender/_/Rein+Me+In+(with+Olivia+Dean)",
-        "date": {
-          "uts": "1793466801",
-          "#text": "31 Oct 2026, 17:13"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "7289d10d-d8d2-41ff-8308-c56ec9346e07",
-          "#text": "Texas"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/8fe6920e9cf9016f687fda9bb9da832a.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/8fe6920e9cf9016f687fda9bb9da832a.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/8fe6920e9cf9016f687fda9bb9da832a.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/8fe6920e9cf9016f687fda9bb9da832a.png"
-          }
-        ],
-        "mbid": "5f44a586-d865-4f82-b176-17ea3a430ebb",
-        "album": {
-          "mbid": "052dfaf4-e393-4f7a-862c-6abcf7cf0260",
-          "#text": "The Greatest Hits"
-        },
-        "name": "Inner Smile",
-        "url": "https://www.last.fm/music/Texas/_/Inner+Smile",
-        "date": {
-          "uts": "1793466597",
-          "#text": "31 Oct 2026, 17:09"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "ea4dfa26-f633-4da6-a52a-f49ea4897b58",
-          "#text": "R.E.M."
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/ceb7b050dee4411380a41135e7a68b16.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/ceb7b050dee4411380a41135e7a68b16.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/ceb7b050dee4411380a41135e7a68b16.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ceb7b050dee4411380a41135e7a68b16.png"
-          }
-        ],
-        "mbid": "009e2e32-dde6-48ca-9914-70ec1b3fea2e",
-        "album": {
-          "mbid": "0712fd61-a60e-42b8-ae88-d96f4f834d17",
-          "#text": "Automatic for the People"
-        },
-        "name": "Nightswimming",
-        "url": "https://www.last.fm/music/R.E.M./_/Nightswimming",
-        "date": {
-          "uts": "1793377113",
-          "#text": "30 Oct 2026, 16:18"
-        }
       }
     ],
     "@attr": {
-      "total": "4325"
+      "total": "4328"
     }
   }
 }

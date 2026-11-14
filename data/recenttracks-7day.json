@@ -1,149 +1,6 @@
 {
   "tracks": [
     {
-      "name": "Here You Come, There You Go",
-      "artist": {
-        "#text": "Gracie Abrams"
-      },
-      "album": {
-        "#text": "Here You Come, There You Go"
-      },
-      "date": {
-        "uts": "1794004160",
-        "#text": "Fri, 06 Nov 2026 22:29:20 GMT"
-      }
-    },
-    {
-      "name": "My Whole World",
-      "artist": {
-        "#text": "Kings of Leon"
-      },
-      "album": {
-        "#text": "My Whole World"
-      },
-      "date": {
-        "uts": "1794004351",
-        "#text": "Fri, 06 Nov 2026 22:32:31 GMT"
-      }
-    },
-    {
-      "name": "Such Great Heights - From \"Tell Me Lies (Season 3)\"",
-      "artist": {
-        "#text": "CHVRCHES"
-      },
-      "album": {
-        "#text": "Such Great Heights [From \"Tell Me Lies (Season 3)\"]"
-      },
-      "date": {
-        "uts": "1794004588",
-        "#text": "Fri, 06 Nov 2026 22:36:28 GMT"
-      }
-    },
-    {
-      "name": "Scarlett",
-      "artist": {
-        "#text": "Holly Humberstone"
-      },
-      "album": {
-        "#text": "Can You Afford To Lose Me?"
-      },
-      "date": {
-        "uts": "1794004843",
-        "#text": "Fri, 06 Nov 2026 22:40:43 GMT"
-      }
-    },
-    {
-      "name": "Inner Smile",
-      "artist": {
-        "#text": "Texas"
-      },
-      "album": {
-        "#text": "The Greatest Hits"
-      },
-      "date": {
-        "uts": "1794005019",
-        "#text": "Fri, 06 Nov 2026 22:43:39 GMT"
-      }
-    },
-    {
-      "name": "Pure Shores",
-      "artist": {
-        "#text": "All Saints"
-      },
-      "album": {
-        "#text": "Saints & Sinners (25th Anniversary Edition)"
-      },
-      "date": {
-        "uts": "1794005221",
-        "#text": "Fri, 06 Nov 2026 22:47:01 GMT"
-      }
-    },
-    {
-      "name": "I Know a Place",
-      "artist": {
-        "#text": "MUNA"
-      },
-      "album": {
-        "#text": "About U"
-      },
-      "date": {
-        "uts": "1794005460",
-        "#text": "Fri, 06 Nov 2026 22:51:00 GMT"
-      }
-    },
-    {
-      "name": "Caution",
-      "artist": {
-        "#text": "The Killers"
-      },
-      "album": {
-        "#text": "Imploding the Mirage"
-      },
-      "date": {
-        "uts": "1794005717",
-        "#text": "Fri, 06 Nov 2026 22:55:17 GMT"
-      }
-    },
-    {
-      "name": "People Watching",
-      "artist": {
-        "#text": "Sam Fender"
-      },
-      "album": {
-        "#text": "People Watching"
-      },
-      "date": {
-        "uts": "1794005948",
-        "#text": "Fri, 06 Nov 2026 22:59:08 GMT"
-      }
-    },
-    {
-      "name": "The Mother We Share",
-      "artist": {
-        "#text": "CHVRCHES"
-      },
-      "album": {
-        "#text": "The Bones of What You Believe (Special Edition)"
-      },
-      "date": {
-        "uts": "1794006236",
-        "#text": "Fri, 06 Nov 2026 23:03:56 GMT"
-      }
-    },
-    {
-      "name": "Blame Brett",
-      "artist": {
-        "#text": "The Beaches"
-      },
-      "album": {
-        "#text": "Blame My Ex"
-      },
-      "date": {
-        "uts": "1794006413",
-        "#text": "Fri, 06 Nov 2026 23:06:53 GMT"
-      }
-    },
-    {
       "name": "Forbidden City",
       "artist": {
         "#text": "Electronic"
@@ -1611,7 +1468,46 @@
         "uts": "1794594766",
         "#text": "Fri, 13 Nov 2026 18:32:46 GMT"
       }
+    },
+    {
+      "name": "Current Affairs",
+      "artist": {
+        "#text": "Lorde"
+      },
+      "album": {
+        "#text": "Virgin"
+      },
+      "date": {
+        "uts": "1794611231",
+        "#text": "Fri, 13 Nov 2026 23:07:11 GMT"
+      }
+    },
+    {
+      "name": "Clearblue",
+      "artist": {
+        "#text": "Lorde"
+      },
+      "album": {
+        "#text": "Virgin"
+      },
+      "date": {
+        "uts": "1794611419",
+        "#text": "Fri, 13 Nov 2026 23:10:19 GMT"
+      }
+    },
+    {
+      "name": "GRWM",
+      "artist": {
+        "#text": "Lorde"
+      },
+      "album": {
+        "#text": "Virgin"
+      },
+      "date": {
+        "uts": "1794611537",
+        "#text": "Fri, 13 Nov 2026 23:12:17 GMT"
+      }
     }
   ],
-  "generated": "2026-11-13T21:27:29.773Z"
+  "generated": "2026-11-14T01:41:33.172Z"
 }
